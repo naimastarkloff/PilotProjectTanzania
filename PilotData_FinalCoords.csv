@@ -1,0 +1,468 @@
+"","Phase","District_Waterbody","LatToUse","LongToUse"
+"1",3,"Misungwi_Bwawa la Galaya",-2.64464998245239,33.1622009277344
+"2",3,"Kwimba_Bwawa la Ibindo Iseni",-2.79783344268799,33.465950012207
+"3",3,"Kwimba_Bwawa la Ibindo Tallo",-2.81445002555847,33.4471664428711
+"4",3,"Kishapu_Bwawa la Mhumbu",-3.49609994888306,33.5211982727051
+"5",3,"Busega_Bwawa la Pastory Petro",-2.29565000534058,33.7565002441406
+"6",1,"Misungwi_Bwawa la TASAF",-2.85343337059021,33.2744178771973
+"7",3,"Kwimba_Bwawa la Umwagiliaji",-3.02158331871033,33.363883972168
+"8",3,"Magu_Kasimu cha Idete",-2.70040011405945,33.5030174255371
+"9",3,"Misungwi_Kisima/Lambo la Ibogo",-2.77626657485962,33.1091003417969
+"10",3,"Misungwi_Kisima cha Mwandimanya",-2.74898338317871,33.0001831054688
+"11",3,"Magu_Kisima cha Bohe Mke",-2.61863327026367,33.4297676086426
+"12",3,"Sengerema_Kisima cha Bufalo",-2.55641674995422,32.7355003356934
+"13",3,"Magu_Kisima cha Bulambu",-2.65030002593994,33.3489151000977
+"14",3,"Magu_Kisima cha Burundi/Nojaminzi",-2.65108323097229,33.5012664794922
+"15",3,"Sengerema_Kisima cha Busekwanoni",-2.72856664657593,32.8540344238281
+"16",3,"Misungwi_Kisima cha Bustani Hesawa",-2.69665002822876,33.1694488525391
+"17",3,"Misungwi_Kisima cha Buzengo",-3.12033343315125,33.0766334533691
+"18",3,"Magu_Kisima cha Dundo",-2.7420666217804,33.7144012451172
+"19",1,"Misungwi_Kisima cha Ng'wamawa",-2.73554992675781,33.0140647888184
+"20",3,"Misungwi_Kisima cha Garani",-2.71948337554932,32.9903335571289
+"21",3,"Misungwi_Kisima cha Goyi",-2.71671676635742,33.1874656677246
+"22",3,"Busega_Kisima cha Hamisi",-2.3659999370575,33.7619819641113
+"23",3,"Misungwi_Kisima cha Hehela",-2.82918334007263,33.0752983093262
+"24",3,"Misungwi_Kisima cha Huya",-2.68324995040894,33.1641654968262
+"25",3,"Busega_Kisima cha Ibengo",-2.4556667804718,33.6452331542969
+"26",3,"Misungwi_Kisima cha Ibhingo",-2.66973328590393,33.0976181030273
+"27",3,"Sengerema_Kisima cha Igogo",-2.552649974823,32.6842498779297
+"28",1,"Misungwi_Kisima cha Isadukilo",-2.73081660270691,32.9993667602539
+"29",3,"Misungwi_Kisima cha Itoba",-2.71586656570435,33.1958847045898
+"30",3,"Sengerema_Kisima cha James Yamliga",-2.57911658287048,32.7159843444824
+"31",3,"Sengerema_Kisima cha Jeremia",-2.57456660270691,32.7396507263184
+"32",3,"Magu_Kisima cha John Kayoka",-2.68353343009949,33.5079154968262
+"33",3,"Misungwi_Kisima cha Juma",-2.64008331298828,33.1086654663086
+"34",3,"Busega_Kisima cha Kandalasi",-2.41211676597595,33.7640838623047
+"35",3,"Misungwi_Kisima cha Kanisa la AIC",-2.69456672668457,33.1701507568359
+"36",3,"Misungwi_Kisima cha Kasekele",-2.82524991035461,33.071533203125
+"37",3,"Sengerema_Kisima cha Kasimu Hasani",-2.57301664352417,32.7049331665039
+"38",3,"Magu_Kisima cha Kawawa",-2.51576662063599,33.2418670654297
+"39",3,"Magu_Kisima cha Kibimbila",-2.65108323097229,33.507999420166
+"40",3,"Misungwi_Kisima cha Kigala Mkuyuni",-2.7048499584198,33.1144828796387
+"41",3,"Misungwi_Kisima cha Kihamba",-2.65024995803833,33.122932434082
+"42",3,"Misungwi_Kisima cha Kuli",-2.6676332950592,33.1291999816895
+"43",3,"Magu_Kisima cha kwa Bagi",-2.638516664505,33.4693489074707
+"44",3,"Sengerema_Kisima cha kwa Buta",-2.57224988937378,32.6537818908691
+"45",3,"Misungwi_Kisima cha kwa Daniel",-2.67356657981873,33.1465148925781
+"46",3,"Misungwi_Kisima cha kwa Elias",-2.75226664543152,33.0007514953613
+"47",1,"Misungwi_Kisima cha kwa Giri",-2.76751661300659,33.001335144043
+"48",3,"Misungwi_Kisima cha kwa Goru",-2.75355005264282,33.0005989074707
+"49",3,"Misungwi_Kisima cha kwa Isalu",-2.75248336791992,33.0583648681641
+"50",1,"Misungwi_kisima cha kwa Jela",-2.75071668624878,33.0203170776367
+"51",3,"Busega_Kisima cha kwa Juma Madilisha",-2.4293167591095,33.7866172790527
+"52",3,"Kwimba_Kisima cha kwa Kefa",-2.80138325691223,33.4560317993164
+"53",3,"Magu_Kisima cha kwa Kisale",-2.69456672668457,33.4193496704102
+"54",3,"Magu_Kisima cha kwa Kitakung'wa",-2.69539999961853,33.4155654907227
+"55",3,"Busega_Kisima cha kwa Koya",-2.43670010566711,33.7826347351074
+"56",1,"Misungwi_Kisima cha kwa Lufilisha",-2.74329996109009,33.0092658996582
+"57",3,"Misungwi_Kisima cha kwa Luhalamla",-2.84069991111755,33.1905670166016
+"58",3,"Busega_Kisima cha kwa Lukanula",-2.43630003929138,33.7861175537109
+"59",3,"Magu_Kisima cha kwa Lutonja",-2.69586658477783,33.4296684265137
+"60",3,"Misungwi_Kisima cha kwa Maganga",-2.68939995765686,33.1567001342773
+"61",3,"Busega_Kisima cha kwa Makeje",-2.38298344612122,33.6821670532227
+"62",3,"Magu_Kisima cha kwa Makelemo",-2.69186663627625,33.4241333007812
+"63",1,"Misungwi_Kisima cha kwa Makongoro",-2.75353336334229,32.9979820251465
+"64",3,"Magu_Kisima cha kwa Masesa",-2.53676676750183,33.2374153137207
+"65",3,"Misungwi_Kisima cha kwa Mchele",-2.71956658363342,33.1537017822266
+"66",3,"Misungwi_Kisima cha kwa Ndege Kadaso",-2.84929990768433,33.1041488647461
+"67",1,"Misungwi_kisima cha kwa Ndiganya",-2.74850010871887,33.0211334228516
+"68",3,"Misungwi_Kisima cha kwa Ng'wambohyo Site 2",-2.74643325805664,33.0223007202148
+"69",1,"Misungwi_Kisima cha kwa Ng'wambohyo Site 1",-2.74600005149841,33.0223655700684
+"70",2,"Magu_Kisima cha kwa Ng'wankalo",-2.69720005989075,33.425651550293
+"71",3,"Magu_Kisima cha kwa Seleman",-2.69478344917297,33.4255180358887
+"72",3,"Magu_Kisima cha kwa Sinzo",-2.65256667137146,33.4728851318359
+"73",1,"Misungwi_kisima cha kwa Suka",-2.74830007553101,33.0110015869141
+"74",1,"Misungwi_kisima cha kwa Zwanja",-2.74681663513184,33.010066986084
+"75",3,"Misungwi_Kisima cha Kwinenge",-2.71633338928223,33.1244506835938
+"76",3,"Sengerema_Kisima cha Lazaro Makumiabili",-2.57543325424194,32.7394828796387
+"77",3,"Misungwi_Kisima cha Longo",-3.12779998779297,32.9948501586914
+"78",3,"Sengerema_Kisima cha Lubinza Budelele",-2.76663327217102,32.8160667419434
+"79",3,"Misungwi_Kisima cha Luhala",-2.73443341255188,33.1803169250488
+"80",3,"Misungwi_Kisima cha Lutoja",-2.77411675453186,33.0139846801758
+"81",3,"Misungwi_Kisima cha Luvogo",-2.63693332672119,33.1139831542969
+"82",3,"Misungwi_Kisima cha Madaha",-2.72259998321533,33.0125160217285
+"83",3,"Misungwi_Kisima cha Magigo",-2.65926671028137,33.1416664123535
+"84",3,"Magu_Kisima cha Makelanhyiwa",-2.66351675987244,33.3912506103516
+"85",3,"Misungwi_Kisima cha Makwega",-2.84433341026306,33.1046981811523
+"86",3,"Sengerema_Kisima cha Malole Budelel Site 1",-2.7754499912262,32.823299407959
+"87",3,"Kwimba_Kisima cha Manyallila",-2.80726671218872,33.4513816833496
+"88",1,"Misungwi_kisima cha Manyilizu",-2.81603336334229,33.1002159118652
+"89",3,"Misungwi_Kisima cha Mapuli",-2.81988334655762,33.0796012878418
+"90",3,"Sengerema_Kisima cha Marco Mabina",-2.57681655883789,32.7249183654785
+"91",3,"Misungwi_Kisima cha Mbiti",-2.71880006790161,32.9933662414551
+"92",3,"Misungwi_Kisima cha Mganga",-2.83026671409607,33.1943817138672
+"93",3,"Sengerema_Kisima cha Milembe Busunzule",-2.55853343009949,32.7193489074707
+"94",3,"Magu_Kisima cha Majiyantemi Luhongola",-2.55161666870117,33.2414665222168
+"95",3,"Sengerema_Kisima cha Mkomba Jineri",-2.73184990882874,32.8337173461914
+"96",3,"Sengerema_Kisima cha Mundamshimu",-2.55588340759277,32.7158012390137
+"97",3,"Magu_Kisima cha Mwabalogi",-2.65656661987305,33.5034332275391
+"98",3,"Misungwi_Kisima cha Mwagala kwa Magunga Site 2",-2.71703338623047,33.0520668029785
+"99",3,"Magu_Kisima cha Mwakabizo",-2.666100025177,33.5008163452148
+"100",3,"Magu_Kisima cha Mwakalogi",-2.78730010986328,33.7725830078125
+"101",1,"Misungwi_kisima cha Mwakengelea",-2.71326661109924,33.1365013122559
+"102",3,"Misungwi_Kisima cha Mwalimu Ngole",-2.87611675262451,33.1216506958008
+"103",3,"Misungwi_Kisima cha Mwalyanda",-2.6449499130249,33.1462516784668
+"104",1,"Magu_kisima cha Mwamabeshi",-2.69464993476868,33.4822998046875
+"105",3,"Misungwi_Kisima cha Mwamaganda",-2.84446668624878,33.1139984130859
+"106",3,"Magu_Kisima cha Mwamaleba",-2.69566655158997,33.4881324768066
+"107",3,"Busega_Kisima cha Mwamalongo",-2.47596669197083,33.6102828979492
+"108",3,"Magu_Kisima cha Mwamalongo",-2.81681656837463,33.7536506652832
+"109",3,"Busega_Kisima cha Mwamasebu",-2.45043325424194,33.8167991638184
+"110",3,"Busega_Kisima cha Mwamatudi",-2.41718339920044,33.7580680847168
+"111",3,"Busega_Kisima cha Mwamkinga",-2.39884996414185,33.8136329650879
+"112",1,"Misungwi_Kisima cha Mwanalugata",-2.86433339118958,33.2728157043457
+"113",3,"Busega_Kisima cha Mwandwike",-2.41163325309753,33.7491989135742
+"114",3,"Busega_Kisima cha Mwang'halanga",-2.48184990882874,33.6692008972168
+"115",3,"Magu_Kisima cha Mwashilabi",-2.79896664619446,33.7658843994141
+"116",3,"Misungwi_Kisima cha Mwela",-2.83903336524963,33.0138168334961
+"117",1,"Misungwi_kisima cha Mwelela",-2.73531675338745,32.991584777832
+"118",3,"Misungwi_Kisima cha Nchilu Mnyeti",-3.15223336219788,33.0880165100098
+"119",3,"Sengerema_Kisima cha Ng'ong'o",-2.54618334770203,32.7294998168945
+"120",3,"Misungwi_Kisima cha Ng'wabhukumbi",-2.71251678466797,33.1909332275391
+"121",1,"Misungwi_kisima cha Ng'wabhusumabhu",-2.69503331184387,33.1934509277344
+"122",1,"Misungwi_kisima cha Ng'wabunyele",-2.75838327407837,32.9983673095703
+"123",3,"Magu_Kisima cha Ng'wagalani",-2.63913321495056,33.3446502685547
+"124",1,"Busega_Kisima cha Mwakachembeho",-2.39610004425049,33.6659660339355
+"125",1,"Misungwi_Kisima cha Ng'wakadilana",-2.69871664047241,33.201301574707
+"126",1,"Misungwi_Kisima cha Ng'wakakwale",-2.74683332443237,33.0219345092773
+"127",3,"Misungwi_Kisima cha Ng'wakaliwa",-2.73603343963623,33.118034362793
+"128",3,"Misungwi_Kisima cha Ng'wakasumba",-2.7228000164032,33.1633987426758
+"129",3,"Misungwi_Kisima cha Ng'waluge",-2.68986678123474,33.0885009765625
+"130",1,"Misungwi_kisima cha Ng'wamabula",-2.74210000038147,33.022834777832
+"131",3,"Misungwi_Kisima cha Ng'wamalinga",-2.753666639328,33.1334495544434
+"132",3,"Magu_Kisima cha Ng'wamanungu",-2.693683385849,33.4905166625977
+"133",3,"Misungwi_Kisima cha Ng'wamapocho",-2.73753333091736,33.0190315246582
+"134",3,"Misungwi_Kisima cha Ng'wamarashi",-2.861483335495,33.0953826904297
+"135",3,"Busega_Kisima cha Ng'wamashoka",-2.38043332099915,33.6880340576172
+"136",1,"Misungwi_kisima cha Ng'wamasune",-2.66883325576782,33.1126174926758
+"137",3,"Magu_Kisima cha Ng'wambata",-2.68011665344238,33.5042152404785
+"138",3,"Busega_Kisima cha Ng'wambiti",-2.36104989051819,33.7998504638672
+"139",3,"Magu_Kisima cha Ng'wamchanga Mabawa",-2.6829833984375,33.5037651062012
+"140",3,"Magu_Kisima cha Ng'wamgingili",-2.68553328514099,33.5066680908203
+"141",3,"Misungwi_Kisima cha Ng'wamhabi",-2.72778344154358,32.9761505126953
+"142",3,"Misungwi_Kisima cha Ng'wanashinyama",-3.13864994049072,33.0575981140137
+"143",3,"Misungwi_Kisima cha Ng'wandomele Kaswahili",-2.72475004196167,32.9870147705078
+"144",3,"Misungwi_Kisima cha Ng'wangolo",-2.68588328361511,33.1695518493652
+"145",3,"Magu_Kisima cha Ng'wangunja",-2.68731665611267,33.5007514953613
+"146",3,"Misungwi_Kisima cha Ng'wanhungo",-2.75023341178894,33.1427345275879
+"147",3,"Misungwi_Kisima cha Ng'wanongu",-2.88001656532288,33.129768371582
+"148",3,"Misungwi_Kisima cha Ng'wantondope",-2.71111655235291,33.151798248291
+"149",3,"Misungwi_Kisima cha Ng'wanyilila",-2.67111659049988,33.1002998352051
+"150",3,"Misungwi_Kisima cha Ng'wanzela",-2.7189667224884,33.2042350769043
+"151",3,"Misungwi_Kisima cha Ng'wanzumbi",-2.70053339004517,33.1495018005371
+"152",3,"Busega_Kisima cha Ng'wasalamba",-2.47303342819214,33.8025665283203
+"153",3,"Misungwi_Kisima cha Ng'washesha Mchangani",-2.68683338165283,33.165283203125
+"154",3,"Misungwi_Kisima cha Ng'washipolo",-2.78706669807434,33.1035499572754
+"155",3,"Misungwi_Kisima cha Ng'waya",-2.65298342704773,33.1377830505371
+"156",1,"Misungwi_kisima cha Ng'wamabumbuga",-2.68048334121704,33.1730995178223
+"157",1,"Busega_Kisima cha Ng'wandilanha",-2.3591001033783,33.8130989074707
+"158",3,"Magu_Kisima cha Ngado",-2.6877167224884,33.5209846496582
+"159",3,"Sengerema_Kisima cha Ngomboji",-2.55789995193481,32.7374839782715
+"160",3,"Misungwi_Kisima cha Ng'wabuye",-2.75769996643066,33.0125999450684
+"161",3,"Magu_Kisima cha Njundu",-2.66529989242554,33.3867340087891
+"162",3,"Misungwi_Kisima cha Nkando",-2.71731662750244,32.9804344177246
+"163",3,"Magu_Kisima cha Ntubi",-2.63368344306946,33.3599014282227
+"164",3,"Magu_Kisima cha Ntubi Site 2",-2.63406658172607,33.3586006164551
+"165",3,"Busega_Kisima cha Nyabazanagi",-2.46716666221619,33.8029518127441
+"166",3,"Misungwi_Kisima cha Nyabugeni",-2.74685001373291,33.1299514770508
+"167",3,"Misungwi_Kisima cha Nyagi",-2.7397665977478,33.1277160644531
+"168",3,"Misungwi_Kisima cha Nyanda Yanyecha",-2.86206674575806,33.2720832824707
+"169",3,"Busega_Kisima cha Nyunjiwa",-2.45318341255188,33.6468315124512
+"170",3,"Misungwi_Kisima cha Nzengo Matunge",-3.10876655578613,33.0556831359863
+"171",3,"Misungwi_Kisima cha Nzengo Shilaloshanguku",-3.12409996986389,33.050350189209
+"172",3,"Misungwi_Kisima cha Paulo Mashikuba",-2.8743999004364,33.1214332580566
+"173",1,"Misungwi_Kisima cha Peter",-2.72973322868347,32.9847679138184
+"174",3,"Misungwi_Kisima cha Peter Masele",-3.09973335266113,33.0189819335938
+"175",3,"Misungwi_Kisima cha Relini",-2.72721672058105,33.1414337158203
+"176",3,"Misungwi_Kisima cha Renard Ngeleji",-3.15380001068115,33.0890007019043
+"177",3,"Busega_Kisima cha Samweli Mahangila",-2.39140009880066,33.8907508850098
+"178",3,"Busega_Kisima cha Sengo",-2.47566676139832,33.8162994384766
+"179",3,"Magu_Kisima cha Shimula Masalu",-2.69356656074524,33.5143508911133
+"180",3,"Misungwi_Kisima cha Shuleni",-2.78531670570374,33.1270332336426
+"181",1,"Misungwi_kisima cha Sila",-2.81511664390564,33.1896171569824
+"182",3,"Busega_Kisima cha Sima Mayala",-2.40420007705688,33.637882232666
+"183",3,"Sengerema_Kisima cha Simon Iswaga",-2.83189988136292,32.7413177490234
+"184",3,"Busega_Kisima cha Sita Gidion",-2.50351667404175,33.8454666137695
+"185",3,"Magu_Kisima cha kwa Sogoni",-2.78986668586731,33.7613677978516
+"186",3,"Misungwi_Kisima cha Suleya",-2.85413336753845,33.1996994018555
+"187",3,"Misungwi_Kisima cha Suswa",-2.84038329124451,33.2018165588379
+"188",3,"Busega_Kisima cha Tito",-2.50048327445984,33.8414649963379
+"189",3,"Misungwi_Kisima cha Wishi",-2.74378323554993,33.0349655151367
+"190",1,"Misungwi_kisima cha Ng'walubatula",-2.74793338775635,33.0213508605957
+"191",3,"Misungwi_Kisima Cha Hilindi",-2.74166655540466,33.046501159668
+"192",3,"Magu_Kisima Hang'ongwa",-2.6203498840332,33.5080337524414
+"193",3,"Sengerema_Kisima kwa Ngologolo",-2.7551167011261,32.8387985229492
+"194",3,"Misungwi_Kisima kwa Nkigila",-2.71068334579468,33.1318016052246
+"195",3,"Magu_Kisima kwa Ntungwa",-2.64755010604858,33.4733848571777
+"196",1,"Sengerema_Kisima la Laulian Edward",-2.82116675376892,32.7229499816895
+"197",3,"Busega_Kisima Ng'walenga",-2.493816614151,33.5957489013672
+"198",3,"Magu_Kisima/Lambo kwa Masigani",-2.65016674995422,33.370548248291
+"199",3,"Sengerema_Kisima/Lambo la Malole Budelel Site 2",-2.77371668815613,32.8189315795898
+"200",3,"Busega_Kisima/Lambo la Shilikale",-2.50636672973633,33.8283157348633
+"201",3,"Magu_Kisima/Lambo la Solo",-2.70208334922791,33.4203147888184
+"202",3,"Misungwi_Kisima/Lambo John Mahugija",-2.8099000453949,33.083667755127
+"203",3,"Misungwi_Kisima/Lambo kwa Kaselya",-2.69718337059021,33.1548004150391
+"204",3,"Magu_Kisima/Lambo la Mwanzuli",-2.77773332595825,33.7008323669434
+"205",3,"Misungwi_Kisima/Lambo la Ng'wakabisu",-2.80270004272461,33.0188179016113
+"206",3,"Misungwi_Kisimani kwa Nyasato",-2.67071676254272,33.1280326843262
+"207",1,"Misungwi_Kwa Bangaya",-2.73280000686646,33.0106010437012
+"208",1,"Misungwi_kwa Enosi Ihega",-2.7315833568573,33.0063018798828
+"209",1,"Misungwi_Kwa Felician",-2.73615002632141,32.9905662536621
+"210",3,"Misungwi_Kwa Fumu",-2.73411655426025,33.0240325927734
+"211",1,"Misungwi_Kwa Kajoba Site 1",-2.75901675224304,33.0039329528809
+"212",3,"Misungwi_Kwa Kajoba Site 2",-2.75903344154358,33.0034828186035
+"213",1,"Misungwi_Kwa lugwisha Mazaga",-2.73376655578613,33.0046653747559
+"214",3,"Magu_Kwa Mayala Chandaluba",-2.70099997520447,33.5050849914551
+"215",1,"Misungwi_Kwa Ndeke",-2.75991678237915,33.0051155090332
+"216",1,"Misungwi_Kwa Nelson Nundi site 1",-2.73359990119934,33.0125007629395
+"217",1,"Misungwi_Kwa Nelson Nundi site 2",-2.73300004005432,33.0118675231934
+"218",3,"Magu_Kwa Ng'wabukwimba",-2.6243999004364,33.3503837585449
+"219",3,"Misungwi_Mtoni kwa Ng'wamasele",-2.7654333114624,32.9961814880371
+"220",1,"Misungwi_Kwa Nghandikija",-2.7594165802002,33.0029983520508
+"221",1,"Misungwi_kwa Ramadhani Shigemelo",-2.73300004005432,33.0114669799805
+"222",1,"Misungwi_Kwa Simon James",-2.73228335380554,33.0105819702148
+"223",1,"Misungwi_kwa Sostenes Emannuel",-2.73145008087158,33.0083656311035
+"224",3,"Misungwi_Kwa Zebedayo",-2.75928330421448,33.0042991638184
+"225",3,"Misungwi_Lambio la Mwamagubo",-2.81489992141724,33.0604820251465
+"226",3,"Misungwi_Lambio la TASAF",-2.82576656341553,33.053783416748
+"227",3,"Busega_Lambo la Wachina",-2.3274667263031,33.8772659301758
+"228",3,"Misungwi_Lambo kwa Mtoni",-2.77578330039978,33.0109329223633
+"229",3,"Magu_Lambo la kwa Maja",-2.66291666030884,33.3908996582031
+"230",3,"Kwimba_Lambo la Maguha kwa Kasimu Mbushi",-3.02513337135315,33.3526992797852
+"231",3,"Busega_Lambo la Apolinari",-2.38806676864624,33.6329498291016
+"232",3,"Misungwi_Lambo la Azizi Salum",-2.83424997329712,33.0871658325195
+"233",3,"Busega_Lambo la Batalliani",-2.46716666221619,33.6710815429688
+"234",3,"Busega_Lambo la Beyamugi",-2.50031661987305,33.7923011779785
+"235",3,"Misungwi_Lambo la Buchama",-2.6331000328064,33.1438179016113
+"236",3,"Misungwi_Lambo la Budula",-3.10516667366028,33.0188484191895
+"237",3,"Busega_Lambo la Bukelebe",-2.45090007781982,33.6469841003418
+"238",3,"Busega_Lambo la Bukombe",-2.42930006980896,33.7865982055664
+"239",3,"Misungwi_Lambo la Butawantemi",-2.650066614151,33.1620330810547
+"240",3,"Misungwi_Lambo la Buyola",-2.68280005455017,33.1060676574707
+"241",3,"Kwimba_Lambo la Chamalendi",-3.02733325958252,33.3528671264648
+"242",3,"Busega_Lambo la Chem Flora",-2.47671675682068,33.8170166015625
+"243",3,"Misungwi_Lambo la Christopher Nyanda",-2.82326674461365,33.013801574707
+"244",3,"Sengerema_Lambo la Cosmas Ngusule",-2.82279992103577,32.7175674438477
+"245",3,"Misungwi_Lambo la Dalali",-2.82026672363281,33.0798988342285
+"246",3,"Misungwi_Lambo la Dome",-3.11631655693054,33.0127983093262
+"247",3,"Magu_Lambo la Dundo",-2.74096655845642,33.7164497375488
+"248",3,"Misungwi_Lambo la Fugo Shinyama",-3.14986658096313,33.0541839599609
+"249",3,"Misungwi_Lambo la Gatuba",-2.67006659507751,33.1292991638184
+"250",3,"Misungwi_Lambo la Goyi",-2.71676659584045,33.187801361084
+"251",1,"Misungwi_Lambo la Hangaya",-2.82325005531311,33.1903343200684
+"252",3,"Misungwi_Lambo la Idubya",-2.85380005836487,33.2668151855469
+"253",3,"Misungwi_Lambo la Igogo",-2.7545166015625,33.0003318786621
+"254",3,"Kwimba_Lambo la Igolola",-2.84875011444092,33.5090827941895
+"255",3,"Misungwi_Lambo la Ilende",-2.87991666793823,33.0876502990723
+"256",1,"Misungwi_Lambo la Ilende 2",-2.6648166179657,33.1129493713379
+"257",3,"Misungwi_Lambo la Ilinde kwa Lugonda",-2.83311676979065,33.189998626709
+"258",3,"Magu_Lambo la James",-2.57716655731201,33.2860488891602
+"259",3,"Busega_Lambo la John Ndugwa",-2.39141654968262,33.6433486938477
+"260",3,"Busega_Lambo la Joseph Bucheyeki",-2.44698333740234,33.802734375
+"261",3,"Sengerema_Lambo la Joseph Malyengete",-2.84241676330566,32.7285003662109
+"262",3,"Magu_Lambo la Joseph Mayunga",-2.6496000289917,33.5038833618164
+"263",3,"Misungwi_Lambo la Jumba Madaha",-3.12728333473206,32.9910659790039
+"264",3,"Misungwi_Lambo la Kanyelele",-2.67149996757507,33.0998992919922
+"265",3,"Busega_Lambo la Kibanio",-2.44946670532227,33.8099174499512
+"266",3,"Misungwi_Lambo la Kigala",-2.70471668243408,33.1147499084473
+"267",3,"Misungwi_Lambo la Kijiji Igwata",-3.13836669921875,33.0767669677734
+"268",3,"Misungwi_Lambo la Kisunge",-3.13491678237915,33.0717315673828
+"269",3,"Sengerema_Lambo la Kubilu Maliganya",-2.80423331260681,32.8175163269043
+"270",3,"Busega_Lambo la kwa Asha Kabengwe",-2.46193337440491,33.635368347168
+"271",3,"Magu_Lambo la kwa Bohe",-2.61876678466797,33.3617820739746
+"272",3,"Misungwi_Lambo la kwa Bulu",-2.80100011825562,33.1024017333984
+"273",3,"Kwimba_Lambo la kwa John",-2.80208325386047,33.4690818786621
+"274",3,"Busega_Lambo la kwa Juma Madilisha Site 2",-2.4291832447052,33.7866172790527
+"275",3,"Kishapu_Lambo la kwa Lucas Emmanuel",-3.46344995498657,33.4999847412109
+"276",3,"Misungwi_Lambo la kwa Lumaneja",-2.79314994812012,33.118465423584
+"277",1,"Misungwi_Lambo la kwa Makana",-2.65525007247925,33.106517791748
+"278",3,"Misungwi_Lambo la kwa Makongoro",-2.76553344726562,32.9968681335449
+"279",3,"Misungwi_Lambo la kwa Mama Neema",-2.83811664581299,33.0785484313965
+"280",3,"Magu_Lambo la kwa Masilingi",-2.70868325233459,33.4069175720215
+"281",3,"Magu_Lambo la kwa Mayungwa",-2.68786668777466,33.4216156005859
+"282",3,"Magu_Lambo la kwa Misungwi",-2.70243334770203,33.4069175720215
+"283",3,"Kwimba_Lambo la kwa Mkindiko",-3.03524994850159,33.4906158447266
+"284",3,"Misungwi_Lambo la Mzee Kasibu Mpuya",-2.85993337631226,33.269115447998
+"285",3,"Busega_Lambo la kwa Ndonya",-2.39313340187073,33.6921348571777
+"286",3,"Kwimba_Lambo la kwa Ngeni",-2.83054995536804,33.5099830627441
+"287",1,"Magu_Lambo la kwa Nhambu",-2.69484996795654,33.4842834472656
+"288",3,"Kishapu_Lambo la kwa Njile Jifungo Site 1",-3.46659994125366,33.5013160705566
+"289",3,"Kishapu_Lambo la kwa Njile Jifungo Site 2",-3.46618342399597,33.5000991821289
+"290",3,"Sengerema_Lambo la kwa Njimba",-2.57156658172607,32.6747665405273
+"291",3,"Magu_Lambo la kwa Ntenga",-2.69041657447815,33.4293670654297
+"292",1,"Misungwi_Lambo la kwa Nundu",-2.73201656341553,33.0097160339355
+"293",3,"Kwimba_Lambo la kwa Nyanda",-2.82089996337891,33.5266342163086
+"294",3,"Kwimba_Lambo la kwa Robert Msalaba",-3.01408338546753,33.3508682250977
+"295",3,"Magu_Lambo la kwa Shahani",-2.80728340148926,33.7698173522949
+"296",3,"Kwimba_Lambo la kwa Salida",-3.02813339233398,33.4541664123535
+"297",3,"Kwimba_Lambo la kwa Seni",-3.02543330192566,33.4527168273926
+"298",3,"Magu_Lambo la kwa Shauli",-2.69545006752014,33.4317169189453
+"299",3,"Magu_Lambo la kwa Solwa",-2.68864989280701,33.4221000671387
+"300",3,"Kishapu_Lambo la kwa Weja Site 1",-3.40978336334229,33.5237503051758
+"301",3,"Kishapu_Lambo la kwa Weja Site 2",-3.40958333015442,33.5237159729004
+"302",3,"Kwimba_Lambo la Kwenye Ndimu",-2.80206656455994,33.4569511413574
+"303",3,"Sengerema_Lambo la Laurian Edward",-2.82109999656677,32.7229156494141
+"304",3,"Kishapu_Lambo la Luduka Magobo",-3.43098330497742,33.5078659057617
+"305",3,"Magu_Lambo la Luhya Kihinu",-2.62403345108032,33.4940490722656
+"306",3,"Misungwi_Lambo la Lukona",-2.77401661872864,33.1170349121094
+"307",3,"Magu_Lambo la Lung'wecha",-2.6376166343689,33.4665489196777
+"308",3,"Misungwi_Lambo la Lyahanzila",-2.78936672210693,33.1012992858887
+"309",3,"Misungwi_Lambo la Lyaja Mbuzunga",-2.87183332443237,33.2599678039551
+"310",3,"Misungwi_Lambo la Mabula",-3.11579990386963,33.0363845825195
+"311",3,"Misungwi_Lambo la Machai",-3.14731669425964,33.0586166381836
+"312",3,"Kwimba_Lambo la Machibula",-2.86001658439636,33.5165328979492
+"313",3,"Busega_Lambo la Madaraka",-2.45916676521301,33.6444664001465
+"314",3,"Kishapu_Lambo la Madilo Sahani",-3.4736499786377,33.4960823059082
+"315",1,"Misungwi_Lambo la Maguha",-3.09288334846497,33.051383972168
+"316",3,"Kwimba_Lambo la Maguha kwa Nkubamange",-3.02131676673889,33.3579483032227
+"317",3,"Kwimba_Lambo la Makologa",-2.85251665115356,33.5226669311523
+"318",3,"Kwimba_Lambo la Maliganya Machiya",-3.01585006713867,33.3383331298828
+"319",3,"Kwimba_Lambo la Malulu",-2.86634993553162,33.5155982971191
+"320",3,"Misungwi_Lambo la Maneno",-2.65298342704773,33.1315002441406
+"321",1,"Misungwi_Lambo la Manyara",-2.82251667976379,33.1785163879395
+"322",3,"Magu_Lambo la Mashiku Majinga",-2.53656673431396,33.2383651733398
+"323",1,"Misungwi_Lambo la Mashinje Nkola",-3.13901662826538,33.0826988220215
+"324",3,"Busega_Lambo la Mathiasi",-2.51025009155273,33.7537841796875
+"325",3,"Magu_Lambo la Mayala Kamanija",-2.69288325309753,33.5255317687988
+"326",3,"Misungwi_Lambo la Mayombya",-2.81931662559509,33.125
+"327",3,"Busega_Lambo la Mbugani",-2.45248341560364,33.8114814758301
+"328",3,"Magu_Lambo la Mganga Marasta",-2.54011654853821,33.2428016662598
+"329",3,"Misungwi_Lambo la Mhana",-2.72105002403259,32.9841842651367
+"330",3,"Misungwi_Lambo la Mikola",-2.66105008125305,33.1417846679688
+"331",3,"Misungwi_Lambo la Mlyomi",-2.67323327064514,33.1452331542969
+"332",3,"Busega_Lambo la Mnyamimigi",-2.5059666633606,33.7879676818848
+"333",1,"Magu_Lambo la Mpogolo",-2.69770002365112,33.4856986999512
+"334",3,"Misungwi_Lambo la Mtemi",-2.8135666847229,33.049633026123
+"335",3,"Magu_Lambo la Mwabalatulu",-2.61948323249817,33.5071334838867
+"336",3,"Busega_Lambo la Mwabasabi",-2.38899993896484,33.8918495178223
+"337",3,"Magu_Lambo la Mwabudala",-2.79121661186218,33.7626495361328
+"338",3,"Misungwi_Lambo la Mwabulemo",-2.74913334846497,33.0126647949219
+"339",3,"Magu_Lambo la Mwabulilo Site 1",-2.66050004959106,33.5144157409668
+"340",3,"Magu_Lambo la Mwabulilo Site 2",-2.66109991073608,33.5141830444336
+"341",3,"Busega_Lambo la Mwajombo",-2.2977499961853,33.7524681091309
+"342",1,"Misungwi_Lambo la Mwakapaya",-2.75178337097168,33.0181350708008
+"343",3,"Busega_Lambo la Mwamalongo",-2.47630000114441,33.6102333068848
+"344",3,"Busega_Lambo la Mwanagolola",-2.45276665687561,33.6378326416016
+"345",3,"Misungwi_Lambo la Mwandimanya",-2.73376655578613,33.0000991821289
+"346",3,"Busega_Lambo la Mwang'halanga",-2.48484992980957,33.6654319763184
+"347",3,"Busega_Lambo la Mwangimu",-2.32393336296082,33.8754844665527
+"348",1,"Busega_Lambo la Mwanza",-2.33971667289734,33.7341499328613
+"349",3,"Kwimba_Lambo la Mwashi",-3.0190167427063,33.468334197998
+"350",1,"Misungwi_Lambo la Mwelela",-2.73573327064514,32.9910163879395
+"351",3,"Magu_Lambo la Mzee Kanyelema Nkululo",-2.56161665916443,33.2646827697754
+"352",3,"Misungwi_Lambo la Ng'honela",-2.73720002174377,33.1184349060059
+"353",3,"Magu_Lambo la Ng'hundi",-2.62330007553101,33.3588981628418
+"354",3,"Magu_Lambo la Ng'wabamba",-2.69156670570374,33.5289497375488
+"355",1,"Misungwi_Lambo la Ng'wagundula",-2.6528332233429,33.1716156005859
+"356",3,"Misungwi_Lambo la Ng'wakasumba",-2.72270011901855,33.1631164550781
+"357",3,"Misungwi_Lambo la Ng'wakavela",-2.71891665458679,33.203182220459
+"358",3,"Misungwi_Lambo la Ng'wamaduka",-2.67531657218933,33.1190338134766
+"359",3,"Misungwi_Lambo la Ng'wamagobeko",-2.7553334236145,33.0522346496582
+"360",3,"Busega_Lambo la Ng'wamahela",-2.34120011329651,33.7286987304688
+"361",3,"Misungwi_Lambo la Ng'wamahugija",-2.78885006904602,33.1019172668457
+"362",3,"Misungwi_Lambo la Ng'wamahumbi",-2.67926669120789,33.1344833374023
+"363",3,"Misungwi_Lambo la Ng'wamakale",-2.66781663894653,33.1210174560547
+"364",3,"Misungwi_Lambo la Ng'wamakole(Ng'wamakomelo)",-2.64538335800171,33.1182518005371
+"365",1,"Misungwi_Lambo la Ng'wamalecha",-2.68581676483154,33.1671981811523
+"366",3,"Misungwi_Lambo la Ng'wamanonga",-2.64275002479553,33.1464157104492
+"367",1,"Misungwi_Lambo la ng'wamashosha",-2.70243334770203,33.2051162719727
+"368",3,"Magu_Lambo la Ng'wamgingili",-2.68538331985474,33.506950378418
+"369",3,"Misungwi_Lambo la Ng'wamhabi",-2.72769999504089,32.9762496948242
+"370",3,"Misungwi_Lambo la Ng'wamulya",-2.83276677131653,33.1047821044922
+"371",3,"Misungwi_Lambo la Ng'wanamaguha",-3.11916661262512,33.0106010437012
+"372",3,"Misungwi_Lambo la Ng'wandomele Kaswahili",-2.72488331794739,32.9864845275879
+"373",3,"Magu_Lambo la Ng'wang'homba",-2.61649990081787,33.3419151306152
+"374",3,"Misungwi_Lambo la Ng'wangoye",-2.74063324928284,33.1688995361328
+"375",3,"Misungwi_Lambo la Ng'wanjemu",-2.77596664428711,33.0319671630859
+"376",3,"Busega_Lambo la Ng'wanoni",-2.48721671104431,33.6000823974609
+"377",3,"Misungwi_Lambo la Ng'wawambula",-2.83993339538574,33.1105995178223
+"378",1,"Misungwi_Lambo la Ng'wiza",-2.81981658935547,33.192684173584
+"379",1,"Misungwi_Lambo la Ng'wakang'wina",-2.67135000228882,33.1805000305176
+"380",3,"Magu_Lambo la Ngado",-2.68766665458679,33.5211334228516
+"381",3,"Magu_Lambo la Ngashe",-2.57719993591309,33.2867660522461
+"382",3,"Magu_Lambo la Ngumo",-2.64963340759277,33.3502998352051
+"383",3,"Misungwi_Lambo la Njegele",-2.66303324699402,33.1430015563965
+"384",3,"Magu_Lambo la Njimya",-2.66230010986328,33.3792343139648
+"385",3,"Misungwi_Lambo la Njongo Maeka",-3.13806676864624,32.982666015625
+"386",3,"Magu_Lambo la Nkola",-2.69006657600403,33.4929351806641
+"387",3,"Misungwi_Lambo la Nkola",-2.88051676750183,33.2577667236328
+"388",3,"Magu_Lambo la Nkoma",-2.69749999046326,33.4976501464844
+"389",3,"Kwimba_Lambo la Nkono Gwantemi",-2.85174989700317,33.5102996826172
+"390",3,"Busega_Lambo la Nyamatembe",-2.43245005607605,33.6467666625977
+"391",3,"Magu_Lambo la Nyandekwa Site 1",-2.75348329544067,33.7039680480957
+"392",3,"Misungwi_Lambo la Nyandoloja",-2.89109992980957,33.1114349365234
+"393",3,"Magu_Lambo la Nyasho",-2.6735999584198,33.4978981018066
+"394",3,"Busega_Lambo la Nzagamba",-2.38934993743896,33.6361999511719
+"395",1,"Misungwi_Lambo la Nzengo",-2.65723323822021,33.1682662963867
+"396",3,"Misungwi_Lambo la Nzengo Matunge",-3.1091833114624,33.0553817749023
+"397",3,"Misungwi_Lambo la Nzengo Shilaloshanguku",-3.12386655807495,33.0524482727051
+"398",1,"Misungwi_Lambo la Ouma Doto",-3.13934993743896,33.0840339660645
+"399",3,"Sengerema_Lambo la Paul Lupama",-2.81019997596741,32.7289161682129
+"400",3,"Misungwi_Lambo la Paulo Nghong'o",-2.86136674880981,33.271598815918
+"401",3,"Misungwi_Lambo la Philipo Lulyeho",-2.71079993247986,33.1512184143066
+"402",3,"Kishapu_Lambo la Rafael Tinde",-3.43331670761108,33.5086669921875
+"403",3,"Magu_Lambo la Rwanda",-2.64721655845642,33.5100326538086
+"404",3,"Magu_Lambo la Sali Mlimani",-2.58325004577637,33.2771492004395
+"405",3,"Busega_Lambo la Shalyanga",-2.38639998435974,33.7951850891113
+"406",3,"Misungwi_Lambo la Shimbi George",-3.15071678161621,33.0866851806641
+"407",3,"Misungwi_Lambo la Shimbolyo",-2.73228335380554,33.1664657592773
+"408",3,"Magu_Lambo la Shoka Bukelebe",-2.69895005226135,33.5023155212402
+"409",3,"Busega_Lambo la Shule",-2.50494170188904,33.6047325134277
+"410",3,"Magu_Lambo la Shule",-2.79023337364197,33.7680168151855
+"411",3,"Magu_Lambo la Shule ya Msingi",-2.79075002670288,33.7666168212891
+"412",3,"Misungwi_Lambo la Sospeter Walwa",-3.14113330841064,33.0744819641113
+"413",3,"Magu_Lambo la Sospeter Wangano",-2.53511667251587,33.2256164550781
+"414",3,"Misungwi_Lambo la TASAF-Shindika",-2.71286678314209,33.1918830871582
+"415",3,"Magu_Lambo la Vicent Lenda",-2.52903342247009,33.230583190918
+"416",3,"Kwimba_Lambo la Wakandarasi-Kimiza A",-3.02878332138062,33.4501838684082
+"417",3,"Kwimba_Lambo la Wakandarasi-Mwanyahinga",-3.0190167427063,33.4682006835938
+"418",3,"Misungwi_Lambo la Wanga",-2.89205002784729,33.0895004272461
+"419",3,"Sengerema_Lambo la Yeya Kiniga",-2.60716676712036,32.7101669311523
+"420",3,"Magu_Lambo la Yulisi Mbandi",-2.6802499294281,33.5043334960938
+"421",3,"Misungwi_Lambo la Zakhem",-2.86506676673889,33.0980339050293
+"422",3,"Misungwi_Lambo la Zakim",-2.833899974823,33.0858497619629
+"423",3,"Misungwi_Lambo.Kisma Nyakasalika",-2.80771660804749,33.1442680358887
+"424",3,"Misungwi_Lambo/Kisima cha Shigabo",-2.8033332824707,33.1021156311035
+"425",3,"Misungwi_Lambo/Kisima Ng'wamang'wasa",-2.74023342132568,33.139533996582
+"426",3,"Sengerema_Lambo/Kisima cha Ing'ombe",-2.60564994812012,32.7012672424316
+"427",3,"Sengerema_Lambo/Mtoni kwa Msonga",-2.58568334579468,32.6414184570312
+"428",3,"Kwimba_Lambo/Kisima cha kwa Peter Mponeja",-3.03556656837463,33.4467163085938
+"429",3,"Misungwi_Lambo/Kisima cha Manegese",-3.10945010185242,33.0546989440918
+"430",3,"Misungwi_Lambo/Kisima cha Sekulo",-3.12468338012695,33.0776481628418
+"431",3,"Busega_Lambo/Mto wa Makuyuda Mwabayanda",-2.36973333358765,33.7679672241211
+"432",3,"Misungwi_Lambola kwa Ng'wangili",-2.78679990768433,33.0126838684082
+"433",3,"Misungwi_Mabingobingo Site 1",-2.73131656646729,33.025951385498
+"434",3,"Misungwi_Mabingobingo Site 2",-2.73133325576782,33.0261344909668
+"435",3,"Misungwi_Madelelya Site 3",-2.73446655273438,33.0174827575684
+"436",3,"Misungwi_Madelelya Site 4",-2.7341833114624,33.0171012878418
+"437",3,"Misungwi_Madelelya Site 1",-2.73475003242493,33.0182495117188
+"438",3,"Misungwi_Madelelya Site 2",-2.73471665382385,33.0180320739746
+"439",3,"Kishapu_Mfereji wa Rafael Tinde",-3.43968343734741,33.50830078125
+"440",3,"Misungwi_Mto Chanzo",-2.87465000152588,33.286548614502
+"441",3,"Busega_Mto Lunala",-2.35954999923706,33.7807655334473
+"442",3,"Busega_Mto Nyang'humbi Site 1",-2.27276659011841,33.7763671875
+"443",3,"Busega_Mto Nyang'humbi Site 2",-2.27305006980896,33.7761840820312
+"444",3,"Busega_Mto wa Makuyuda Isamilo",-2.37403345108032,33.7733345031738
+"445",3,"Busega_Mto wa Makuyuda Mwabagikulu",-2.3677499294281,33.7641334533691
+"446",1,"Misungwi_Mto wa Marko Mchimwa",-2.89373326301575,33.2730178833008
+"447",1,"Misungwi_Mtoni kwa Maharage",-2.76483345031738,32.9961166381836
+"448",1,"Misungwi_Mtoni Chamhela kwa Jumanne Selelman",-2.72950005531311,33.1855010986328
+"449",3,"Busega_Mtoni kwa Kulwa Mashini",-2.43863344192505,33.780933380127
+"450",1,"Misungwi_Mtoni kwa Mashauri",-2.76366662979126,32.9957847595215
+"451",1,"Misungwi_Ng'wang'ili",-2.78678321838379,33.0125999450684
+"452",3,"Misungwi_Nyamuge",-2.70691657066345,33.0248489379883
+"453",1,"Busega_Kisima cha Doto Pendo",-2.37281,33.87767
+"454",1,"Busega_Kisima cha Dutwa",-2.36431,33.86669
+"455",1,"Magu_Kisima cha kwa Abdallah",-2.79119,33.76269
+"456",1,"Busega_Kisima cha Maswigilo",-2.52359,33.58449
+"457",1,"Misungwi_kisima cha Mwanamchele",-2.78491,33.13319
+"458",1,"Busega_Kisima cha Ng'wansongoma",-2.51065,33.57294
+"459",1,"Magu_Kisima cha Nkina",-2.63244,33.36602
+"460",1,"Busega_Kisima cha Shule ya Msingi Mwamagulu",-2.52325,33.5844
+"461",1,"Busega_Lambo la kwa Mbili",-2.52641,33.58452
+"462",1,"Busega_Lambo la Balihali",-2.36794,33.8702
+"463",1,"Misungwi_Lambo la Bukina",-2.78527,33.12669
+"464",1,"Busega_Lambo la Dilanda",-2.37357,33.8951
+"465",1,"Misungwi_Lambo la kwa Busalu",-2.81144,33.14095
+"466",1,"Magu_Lambo la Nkilijiwa",-2.63288,33.36519
+"467",1,"Magu_Lambo la Sholi",-2.63378,33.3593

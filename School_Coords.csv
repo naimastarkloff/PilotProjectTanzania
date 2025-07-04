@@ -1,0 +1,93 @@
+District,Ward,Village,School_Name,Date,LatToUse,LongToUse
+Busega,Badugu,Badugu,Badugu Primary School,5-Mar-22,-2.4744,33.67458
+Busega,Badugu,Manala,Manala Primary School,5-Mar-22,-2.4546,33.64213
+Busega,Igalukilo,Lunala,Lunala Primary School,2-Mar-22,-2.36238,33.7697
+Busega,Igalukilo,Malangale,Malangale Primary School,5-Mar-22,-2.40624,33.75622
+Busega,Igalukilo,Mwamagigisi,Mwabonji Primary School,5-Mar-22,-2.34941,33.78997
+Busega,Igalukilo,Mwamagigisi,Mwamagigisi Primary School,5-Mar-22,-2.37666,33.7961
+Busega,Igalukilo,Mwamagigisi,Mwamkinga Primary School,5-Mar-22,-2.4565,33.81767
+Busega,Igalukilo  ,Nyangili,Igalukilo Primary School,5-Mar-22,-2.41173,33.77731
+Busega,Kalemela,Bushigwamhala,Buchela Primary School,5-Mar-22,-2.33798,33.72396
+Busega,Kalemela,Bushigwamhala,Bushigwamhala Primary School,5-Mar-22,-2.33883,33.7545
+Busega,Kalemela,Chamugasa,Chamgasa Primary School,14-Mar-22,-2.2922,33.75453
+Busega,Kalemela,Chamugasa,Mwabujose Primary School,14-Mar-22,-2.30861,33.74301
+Busega,Kalemela,Chamugasa,Nyang'humbi Primary School,14-Mar-22,-2.27993,33.77737
+Busega,Malili,Malili,Malili Primary School,5-Mar-22,-2.44231,33.80618
+Busega,Malili,Nyangoko,Imalanzala Primary School,,-2.4881,33.80631
+Busega,Mkula ,Mkula,Masangani Primary School,14-Mar-22,-2.33668,33.87269
+Busega,Mkula ,Mkula,Mkula Primary School,14-Mar-22,-2.33696,33.87286
+Busega,Mkula ,Mkula,Mbugani Primary School,14-Mar-22,-2.34828,33.89862
+Busega,Mkula ,Ng'wanhale,Ng'wanhale Primary School,3-Mar-22,-2.38463,33.87948
+Busega,Ngasamo,Ngasamo,Nyamagana Primary School,5-Mar-22,-2.49134,33.84412
+Busega,Nyaluhande,Mwamkala,Mwamagulu Primary School,5-Mar-22,-2.52258,33.58563
+Busega,Nyaluhande,Mwamkala,Mwamkala Primary School,5-Mar-22,-2.50862,33.57155
+Busega,Nyaluhande,Nyaluhande,Nyaluhande Primary School,5-Mar-22,-2.50504,33.60495
+Busega,Shigala ,Mwamugoba,Mwamugoba Primary School,5-Mar-22,-2.48893,33.73335
+Busega,Shigala ,Nyamatembe,Nyamatembe Primary School,5-Mar-22,-2.38822,33.64498
+Busega,Shigala ,Shigala,Ilambo Primary School,5-Mar-22,-2.38561,33.68758
+Busega,Shigala ,Shigala,Shigala Primary School,5-Mar-22,-2.3944,33.67434
+Kishapu,Mondo,Mwigumbi,Mwigumbi Primary School,26-Feb-22,-3.449,33.51873
+Kishapu,Sekebugoro,Dulisi,Dulisi Primary School,26-Feb-22,-3.431403,33.50661
+Kishapu,Songwa,Mpumbula,Mpumbula Primary School,26-Feb-22,-3.46111,33.50746
+Kwimba,Lyoma,Kimiza,Kimiza Primary School,26-Feb-22,-3.02799,33.4524
+Kwimba,Maligisu,Mwabaratulu,Mwabaratulu Primary School,4-Mar-22,-2.85241,33.5251
+Kwimba,Ng'wanghalanga,Mahiga,Mahiga Primary School,26-Feb-22,-3.0182,33.35096
+Kwimba,Nyambiti,Ibindo,Ibindo Primary School,4-Mar-22,-2.8293,33.44928
+Magu,Buhumbi,Kitongo,Kitongo Primary School,4-Mar-22,-2.627,33.49763
+Magu,Buhumbi,Mwamibanga,Mwamibanga Primary School,4-Mar-22,-2.63994,33.4622
+Magu,Buhumbi,Nyashoshi,Nyashoshi Primary School,4-Mar-22,-2.6951,33.4986
+Magu,Kitongosima,Kigangama,Kigangama Primary School,4-Mar-22,-2.51571,33.24677
+Magu,Kitongosima,Kigangama,Mimbi Primary School,4-Mar-22,-2.52932,33.22211
+Magu,Kitongosima,Lugeye,Ngashe Primary School,4-Mar-22,-2.57453,33.28899
+Magu,Kitongosima,Lugeye,Nyamilama Primary School,4-Mar-22,-2.54254,33.23491
+Magu,Kitongosima,Lugeye,Salisima Primary School,4-Mar-22,-2.55627,33.24777
+Magu,Mwamabanza,Mwamabanza,Mwamabanza Primary School,4-Mar-22,-2.69697,33.42135
+Magu,Mwamabanza,Salong'we,Salong'we Primary School,4-Mar-22,-2.66018,33.40515
+Magu,Nyigogo,Kinango,Kinango Primary School,4-Mar-22,-2.64316,33.36336
+Magu,Nyigogo,Yichobela,Yichobela Primary School,4-Mar-22,-2.6298,33.36314
+Magu,Shishani,Mahaha,Mahaha Primary School,4-Mar-22,-2.7917,33.7654
+Magu,Shishani,Mahaha,Mhingo Primary School,4-Mar-22,-2.79125,33.76627
+Magu,Shishani,Shishani,Shishani Primary School,4-Mar-22,-2.75465,33.70654
+Magu,Sukuma,Iseni,Iseni Primary School,4-Mar-22,-2.66251,33.5341
+Magu,Sukuma ,Nyang'hanga,Galamugi Primary School,4-Mar-22,-2.68849,33.50951
+Magu,Sukuma ,Nyang'hanga,Mwamakanza Primary Scholl,4-Mar-22,-2.6998,33.52475
+Misungwi,Bulemeji,Buganda,Buganda Primary School,25-Feb-22,-2.74439,33.00354
+Misungwi,Bulemeji,Ngudama,Ngudama Primary School,25-Feb-22,-2.72162,33.00269
+Misungwi,Igokelo,Busolwa,Busolwa Primary School,25-Feb-22,-2.81907,33.01248
+Misungwi,Igokelo,Iteja,Mwamanga Primary School,26-Feb-22,-2.8815,33.1127
+Misungwi,Igokelo,Mbela,Mbela Primary School,26-Feb-22,-2.82871,33.08325
+Misungwi,Igokelo,Nange,Nange Primary School,26-Feb-22,-2.84221,33.03758
+Misungwi,Igokelo,Ng'ombe,Ng'ombe Primary School,25-Feb-22,-2.76708,33.04088
+Misungwi,Igokelo,Wanzamiso,Wanzamiso Primary School,26-Feb-22,-2.75647,33.06921
+Misungwi,Kanyelele,Gambajiga,Gambajiga Primary School,26-Feb-22,-2.63778,33.15262
+Misungwi,Kanyelele,Gambajiga,Mwanenge Primary School,26-Feb-22,-2.6412,33.17256
+Misungwi,kanyelele,Kanyelele,Kanyerere Primary School,26-Feb-22,-2.66764,33.09782
+Misungwi,kanyerere,Mwakalima,Ng'wakalima Primary School,26-Feb-22,-2.65959,33.13295
+Misungwi,kanyerere,Mwakalima,Sumbuka Primary School,26-Feb-22,-2.685,33.13318
+Misungwi,Kolomije,Bugomba,Bugomba Primary School,26-Feb-22,-2.70861,33.19164
+Misungwi,Kolomije,Ibongoya A,Ibongoya Primary School,26-Feb-22,-2.72139,33.13724
+Misungwi,Kolomije,Ibongoya A,Muya Primary School,26-Feb-22,-2.7311,33.15943
+Misungwi,Kolomije,Kolomije,Koromije Primary School,26-Feb-22,-2.6945,33.16364
+Misungwi,Mamaye,Ibongoya B,Nyabugeni Primary School,26-Feb-22,-2.74421,33.13313
+Misungwi,Mamaye,Mwalwigi,Mwalwigi Primary School,26-Feb-22,-2.78686,33.12935
+Misungwi,Misungwi,Mwamanga,Iteja Primary School,26-Feb-22,-2.88146,33.09778
+Misungwi,Misungwi,Mwambola,Ng'wambola Primary School,26-Feb-22,-2.79347,33.135
+Misungwi,Misungwi ,Old Misungwi,Misungwi Primary School,26-Feb-22,-2.85002,33.08367
+Misungwi,Mondo,Ntulya,Ntulya Primary School,25-Feb-22,-2.8698,33.27552
+Misungwi,Mondo,Maganzo,Maganzo Primary School,25-Feb-22,-2.83285,33.19534
+Misungwi,Mondo,Ikungumhulu,Igwata Primary School,25-Feb-22,-3.14649,33.07919
+Misungwi,Shilalo,Ikungumhulu,Busegeja Primary School,25-Feb-22,-3.14646,33.07896
+Misungwi,Shilalo,Ng'obo,Kisesa Primary School,25-Feb-22,-3.10408,33.02349
+Misungwi,Shilalo,Shilalo,Ikungumhulu Primary School,25-Feb-22,-3.1328,33.05344
+Misungwi,Ukirigulu,Mwagala,Mwagala Primary School,25-Feb-22,-2.71696,33.06459
+Misungwi,Ukirigulu,Nyamikoma,Ukiriguru Primary School,25-Feb-22,-2.73702,33.02871
+Misungwi,Ukirigulu,Nyang'holongo,Kilimo Primary School,25-Feb-22,-2.7197,33.0174
+Sengerema,Busisi,Busisi,Busisi Primary school,16-Feb-22,-2.72926,32.86674
+Sengerema,Busisi,Busisi,Mkomba Primary school,16-Feb-22,-2.73166,32.84251
+Sengerema,Busisi,Nyamasale,Nyamasale Primary school,16-Feb-22,-2.75828,32.83763
+Sengerema,Buyagu,Isole,Isole Primary School,28-Feb-22,-2.84346,32.75264
+Sengerema,Buyagu,Mulaga,Mulaga Primary School,28-Feb-22,-2.80053,32.82269
+Sengerema,Kasungamile,Kasungamile,Bulunga Primary School,28-Feb-22,-2.5981,32.64247
+Sengerema,Kasungamile,Kasungamile,Kasungamile Primary School,28-Feb-22,-2.58365,32.71914
+Sengerema,Kasungamile,Nyamililo,Nyamililo Primary School,28-Feb-22,-2.57119,32.67955
+Sengerema,Kasungamile,Nyantakubwa,Nyantakubwa Primary School,28-Feb-22,-2.55796,32.7346

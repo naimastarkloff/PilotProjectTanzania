@@ -1,0 +1,387 @@
+Year,Month,District,Ward,Village,Subvillage,Site.name,Waterbody,CorrectedWBName,Date,water.body_Type,Long_dimension..M.,Perp.dimension..M.,Water_level,Season,Time_in,Time_out,Snail_present,livestock_present,Snail_genus_collected,Number_of.Bulinus_collected,Number.of.Infected.snails
+2021,July,Busega,Badugu,Badugu,Mwang'halanga,Kisima cha Mwang'halanga,Kisima cha Mwang'halanga,Kisima cha Mwang'halanga,18-Jul-21,"Pond, Temporary",127,185,Normal,Dry,10:12,10:27,"Bulinus,Pila.","Cow, Feces.",Bulinus,80,0
+2021,July,Busega,Badugu,Badugu,Lusanga,Lambo la Batalliani,Lambo la Batalliani,Lambo la Batalliani,18-Jul-21,"Pond, Permanent",102,147,Normal,Dry,9:40,9:55,Bulinus.,"Cow.sheep.feces, Dogs,Goat",Bulinus,23,0
+2021,July,Busega,Badugu,Badugu,Mwang'halanga, Mwang'halanga,Lambo la Mwang'halanga,Lambo la Mwang'halanga,18-Jul-21,"Pond, Temporary",57,109,Normal,Dry,10:45,11:00,None,Feces,None,0,0
+2021,June,Misungwi ,Bulemeji,Buganda,Buganda,Kisima cha Mwandimanya,Kisima cha Mwandimanya,Kisima cha Mwandimanya,8-Jun-21,"Pond, Permanent",18,31,Normal,Dry,13:28,13:43,"Bulinus, pila",None,None,14,0
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu A,Kisima cha kwa Elias,Kisima cha kwa Elias,Kisima cha kwa Elias,8-Jun-21,"Pond, Temporary",11.5,18.6,Normal,Dry,12:43,12:58,Bulinus,None,Bulinus,1,0
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu A,Kisima cha Kwa Goru,Kisima cha Kwa Goru,Kisima cha kwa Goru,8-Jun-21,"Pond, Temporary",9.4,15,Normal,Dry,12:25,12:40,"Bulinus, pila","Cow, Sheep,Dogs, Feces.",Bulinus,11,0
+2021,June,Misungwi ,Bulemeji,Buganda,Ijijawenda A,Kisima cha Kwa Ng'wambohyo Site 2,Kisima cha Kwa Ng'wambohyo,Kisima cha kwa Ng'wambohyo Site 2,9-Jun-21,"Pond, Temporary",22.4,30.8,Normal,Dry,12:13,12:28,Bulinus,None,Bulinus,48,0
+2021,June,Misungwi ,Bulemeji,Buganda,Ijijawenda A,Kisima cha Ng'wamapocho,Kisima cha Ng'wamapocho,Kisima cha Ng'wamapocho,9-Jun-21,"Pond, Temporary",15,27,Normal,Dry,12:19,12:34,Bulinus,None,Bulinus,1,0
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu A,kisima cha nhwabuye,kisima cha nhwabuye,Kisima cha Ng'wabuye,8-Jun-21,"Pond, Temporary",10.2,16.2,Normal,Dry,11:41,11:56,"Bulinus, Pila, Lymneae",None,Bulinus,18,0
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu  B,Kwa Kajoba site 2,Kwa kajoba site 2,Kwa Kajoba Site 2,8-Jun-21,"Pond, Temporary",13,15.1,Normal,Dry,10:51,11:06,Pila,None,None,0,0
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu  B,Kwa Ng'wamasele,kwa Ng'wamasele,Mtoni kwa Ng'wamasele,8-Jun-21,"Stream,permanent",65,72,Normal,Dry,10:18,10:33,"Bulinus,Biomphalaria, Pila, Lymneae","Cow, Sheep,Dogs, Feces.",Bulinus,40,0
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu B,Kwa Zebedayo,Kwa Zebedayo,Kwa Zebedayo,8-Jun-21,"Pond, Temporary",15,23.5,Normal,Dry,11:11,11:26,"Bulinus, pila, Biomphalaria","Cow, Sheep,Dogs, Feces.",Bulinus,104,0
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu A,Lambo la Igogo,Lambo la Igogo,Lambo la Igogo,8-Jun-21,Pond. Temporary,75,130,Normal,Dry,12:07,12:22,"Bulinus, pila","Cow, Sheep,Dogs, Goat.",Bulinus,25,2
+2021,June,Misungwi ,Bulemeji,Buganda,Nyamijundu B,Lambo la kwa Makongoro,Lambo la kwa Makongoro,Lambo la kwa Makongoro,8-Jun-21,"Pond,Temporary",35.3,56.1,Normal,Dry,10:00,10:15,"Bulinus, Lymneae, Pila","Cow, Sheep,Dogs, Feces.",Bulinus,33,0
+2021,June,Misungwi ,Bulemeji,Buganda,Ijijawenda B,Lambo la Mwabulemo,Lambo la Mwabulemo,Lambo la Mwabulemo,9-Jun-21,"Pond, Temporary",25.3,49.8,Normal,Dry,11:45,12:00,"Bulinus, pila",Feces,Bulinus,32,0
+2021,June,Misungwi ,Bulemeji,Buganda,Buganda,Lambo la Mwandimanya,Lambo la Mwandimanya,Lambo la Mwandimanya,8-Jun-21,"Pond, Temporary",42,81,Normal,Dry,13:09,13:26,None,"Cow, Sheep,Dogs, Feces.",None,0,0
+2021,June,Misungwi ,Kolomije,Bugomba,Bugomba B,Barinago malendeja,kisima cha Goyi,Kisima cha Goyi,18-Jun-21,"Pond,Permanent",14.3,24.9,Normal,Dry,10:40,10:55,"Bulinus, Pila",None,Bulinus,6,0
+2021,June,Misungwi ,Kolomije,Bugomba,Buchela,kwa charles Itoba,kisima cha Itoba,Kisima cha Itoba,18-Jun-21,"Pond,Permanent",5.7,9.5,Normal,Dry,11:23,11:38,Bulinus,None,Bulinus,59,0
+2021,June,Misungwi ,Kolomije,Bugomba,Bugomba B,kwa Masanja shija,kisima cha Ng'wabhukumbi,Kisima cha Ng'wabhukumbi,18-Jun-21,"Pond,Permanent",16.5,31.9,Normal,Dry,10:18,10:33,Bulinus,None,Bulinus,71,0
+2021,June,Misungwi ,Kolomije,Bugomba,Hilu,kwa Mpejua nyanda,kisima cha Ng'wanzela,Kisima cha Ng'wanzela,18-Jun-21,"Pond,Permanent",9,14.6,Normal,Dry,12:30,12:45,Bulinus,None,Bulinus,13,0
+2021,June,Misungwi ,Kolomije,Bugomba,Bugomba B,kwa lushina kwibondoja,Lambo la Goyi,Lambo la Goyi,18-Jun-21,"Pond,Permanent",31,47,Normal,Dry,11:02,11:17,Bulinus,"cow, feces, goat",None,0,0
+2021,June,Misungwi ,Kolomije,Bugomba,Hilu,kwa Edward kavela,Lambo la Ng'wakavela,Lambo la Ng'wakavela,18-Jun-21,"Pond,Permanent",23,42,Normal,Dry,12:05,12:20,None,"Sheep,cow,feces,goat",None,0,0
+2021,June,Misungwi ,Kolomije,Bugomba,Bugomba B,Kwa shindika,Lambo la TASAF-shindika,Lambo la TASAF-Shindika,18-Jun-21,"Pond,Permanent",48,83.7,Normal,Dry,10:00,10:15,Bulinus,Feces,Bulinus,9,0
+2021,July,Busega,Kalemela,Bushigwamhala,Buchela,Shamba la Ng'wamahela,Lambo la Ng'wamahela,Lambo la Ng'wamahela,19-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,June,Sengerema,Busisi,Busisi,Busekwanoni,Kwa Juma Makona,Kisima cha Busekwanoni,Kisima cha Busekwanoni,29-Jun-21,"Pond,Permanent",4.4,8.2,Normal,Dry,14:46,15:01,None,None,None,0,0
+2021,June,Sengerema,Busisi,Busisi,Mkomba_Jineri,Kwa Mkomba Jineri,Kisima cha Mkomba Jineri,Kisima cha Mkomba Jineri,29-Jun-21,"Pond, Permanent",6,11,Normal,Dry,14:12,14:27,"Bulinus, Lymnaea, Pila",None,Bulinus,67,0
+2021,June,Misungwi ,Igokelo,Busolwa,Bujingwa,Kwa Kulwa,Kisima/Lambo la Ng'wakabisu,Kisima/Lambo la Ng'wakabisu,10-Jun-21,"Pond, Permanent",10.6,18.5,Normal,Dry,9:53,10:08,None,None,None,0,0
+2021,June,Misungwi ,Igokelo,Busolwa,Nyanda,Lambo la Christopher Nyanda,Lambo la Christopher Nyanda,Lambo la Christopher Nyanda,10-Jun-21,"Pond, Permanent",14.1,22.4,Normal,Dry,9:30,9:45,Bulinus,"Feces, Cow",Bulinus,23,0
+2021,July,Busega,Kalemela,Chamugasa,Misheni,Eneo la Pastory Petro,Bwawa la Pastory Petro,Bwawa la Pastory Petro,19-Jul-21,"Pond,Temporary",45,75,Normal,Dry,13:27,13:42,Bulinus,"Feces, cow",Bulinus,87,0
+2021,July,Busega,Kalemela,Chamugasa,Misheni,Shamba la Ezekiel Kabadi,Lambo la Mwajombo,Lambo la Mwajombo,19-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Kalemela,Chamugasa,Nyakulunduma,Shamba la Elias Kasonzu,Mto Nyang'humbi site 01,Mto Nyang'humbi Site 1,19-Jul-21,"River,Temporary",4.8,6,Normal,Dry,12:50,13:05,None,None,None,0,0
+2021,July,Busega,Kalemela,Chamugasa,Nyakulunduma,Sophia Kazinza,Mto Nyang'humbi site 02,Mto Nyang'humbi Site 2,19-Jul-21,"River,Temporary",_,_,Dry,Dry,_,_,_,Feces,None,0,0
+2021,July,Kishapu,Sekebugoro,Dulisi,Unyanyembe,Lambo la luduka magobo,Lambo la luduka magobo,Lambo la Luduka Magobo,28-Jul-21,"Pond, temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Kishapu,Sekebugoro,Dulisi,Unyanyembe,Lambo la Rafael tinde,Lambo la Rafael tinde,Lambo la Rafael Tinde,28-Jul-21,"Pond, temporary",17.4,24.4,Low,Dry,12:41,12:56,Bulinus,Feces,Bulinus,13,0
+2021,July,Kishapu,Sekebugoro,Dulisi,Unyanyembe,Mfereji wa Rafael tinde,Mfereji wa Rafael tinde,Mfereji wa Rafael Tinde,28-Jul-21,"Stream,temporary",10,14.5,Low,Dry,12:00,12:15,None,Feces,None,0,0
+2021,June,Misungwi ,Kanyelele,Gambajiga,Ilangashika,Kwa Bilia Nkengwa,Bwawa la Galaya,Bwawa la Galaya,17-Jun-21,"Dam, Permanent",121,205,Normal,Dry,11:40,11:55,Bulinus,"Cow, Sheep,Dogs, Feces,Goats",Bulinus,92,8
+2021,June,Misungwi ,Kanyelele,Gambajiga,Isanzu,Kwa Wanzile Igulyati,Kisima cha Mwalyanda,Kisima cha Mwalyanda,17-Jun-21,"Pond, permanent",20.3,26.3,Normal,Dry,10:35,10:50,"Bulinus, Lymneae",Dogs,Bulinus,32,0
+2021,June,Misungwi ,Kanyelele,Gambajiga,Lugulu,Kwa Kapunga,Lambo la buchama,Lambo la Buchama,17-Jun-21,"pond, permanent",48,72.4,Normal,Dry,9:40,9:55,"Bulinus, Biomphalaria","Cow,Feces",None,0,0
+2021,June,Misungwi ,Kanyelele,Gambajiga,Igumo,Kwa Butawantemi,Lambo la Butawantemi,Lambo la Butawantemi,17-Jun-21,"Pond, temporary",35,62,Normal,Dry,11:13,11:28,"Bulinus, Lymneae","Feces,cow,goat",Bulinus,32,0
+2021,June,Misungwi ,Kanyelele,Gambajiga,Isanzu,Kwa Kulwa Lufilisha,Lambo la Ng'wamanonga,Lambo la Ng'wamanonga,17-Jun-21,"Pond, permanent",39,74,Normal,Dry,10:12,10:27,"Bulinus, Lymneae, Biomphalaria","Cow, dogs, Feces. ",Bulinus,1,0
+2021,July,Kwimba,Nyambiti,Ibindo,Iseni,Bwawa la Ibindo Iseni,Bwawa la Ibindo Iseni,Bwawa la Ibindo Iseni,29-Jul-21,"Dam, Permanent",200,336,Normal,Dry,12:19,12:34,Bulinus,"cow,Sheep,Feces,goat and Dogs",Bulinus,6,0
+2021,July,Kwimba,Nyambiti,Ibindo,Ntambala,Bwawa la Ibindo tallo,Bwawa la Ibindo tallo,Bwawa la Ibindo Tallo,29-Jul-21,"Dam, Permanent",244,443,Normal,Dry,13:43,13:58,None,"cow,Sheep,Feces,goat",None,0,0
+2021,July,Kwimba,Nyambiti,Ibindo,Ntambala,Kisima cha kwa Kefa,Kisima cha kwa Kefa,Kisima cha kwa Kefa,29-Jul-21,"Pond, Temporary",3.6,4.8,Low,Dry,12:42,12:57,None,None,None,0,0
+2021,July,Kwimba,Nyambiti,Ibindo,Ntambala,Kisima cha Manyallila,Kisima cha Manyallila,Kisima cha Manyallila,29-Jul-21,"Pond, Temporary",7,12.5,Normal,Dry,14:17,14:32,Bulinus,None,Bulinus,2,0
+2021,July,Kwimba,Nyambiti,Ibindo,Iseni,Lambo la kwa John,Lambo la kwa John,Lambo la kwa John,29-Jul-21,"Pond, Temporary",8,13,Low,Dry,11:55,12:10,Bulinus,Feces,Bulinus,74,0
+2021,July,Kwimba,Nyambiti,Ibindo,Ntambala,Lambo la kwenye Ndimu,Lambo la kwenye Ndimu,Lambo la Kwenye Ndimu,29-Jul-21,"Pond, Temporary",17.9,40.6,Normal,Dry,13:02,13:17,Bulinus,Feces,Bulinus,109,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Kigala,Kigala -Mkuyuni,Kisima cha Kigala(Mkuyuni),Kisima cha Kigala Mkuyuni,21-Jun-21,"Pond,Permanent",13.6,20.9,Normal,Dry,16:05,16:20,None,None,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Muya,Kwa Mchele,Kisima cha kwa Mchele,Kisima cha kwa Mchele,21-Jun-21,"Pond, Permanent",12.8,18.2,Normal,Dry,13:05,13:20,"Bulinus, Lymnaea",None,Bulinus,1,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Izunya,Kwa kwinenge,Kisima cha Kwinenge,Kisima cha Kwinenge,21-Jun-21,"Pond,Permanent",27.3,38.7,Normal,Dry,16:25,16:40,None,None,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Chamhela,Kwa Luhala,Kisima cha Luhala,Kisima cha Luhala,21-Jun-21,Pond' Permanent,17,27.2,Normal,Dry,11:00,11:05,None,None,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Kitangili,Kwa Ng'wakasumba,Kisima cha Ng'wakasumba,Kisima cha Ng'wakasumba,21-Jun-21,Pond'Temporary,7.7,13.7,Normal,Dry,12:10,12:25,"Lymneae,Pila",None,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Kitongo,Kwa Ng'wantondope,Kisima cha Ng'wantondope,Kisima cha Ng'wantondope,21-Jun-21,"Pond,Temporary",17,19,Normal,Dry,13:35,13:50,Bulinus,None,Bulinus,3,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Mwakabuli,Mwakabuli-Relini,Kisima cha Relini,Kisima cha Relini,21-Jun-21,"Pond,Permanent",9,15,Normal,Dry,15:15,15:30,"Lymneae,Pila",None,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Izunya,Kwa Nkigila,Kisima kwa Nkigila,Kisima kwa Nkigila,21-Jun-21,"Pond,Permanent",13,25,Normal,Dry,16:50,17:05,"Bulinus,Lymneae,Biomphalaria","Sheep,Cow,Goat and feces",Bulinus,2,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Kigala,Kigala -Mkuyuni,Lambo la Kigala,Lambo la Kigala,21-Jun-21,"Pond,Temporary",40.3,68.7,Normal,Dry,15:45,16:00,None,"Sheep,Cow,Goat and feces",None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Kitangili,Kwa Ng'wakasumba,Lambo la Ng'wakasumba,Lambo la Ng'wakasumba,21-Jun-21,"Pond,Temporary",38,55.5,Normal,Dry,12:30,12:45,Bulinus,"Sheep,Cow,Goat and feces",Bulinus,1,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Ng'wangoye,Kwa  Ng'wangoye,Lambo la Ng'wangoye,Lambo la Ng'wangoye,21-Jun-21,"Pond, Permanent",30,51,Normal,Dry,12:23,11:38,Bulinus,None,Bulinus,17,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Kitongo,Kwa Philipo Lulyeho,Lambo la Philipo Lulyeho,Lambo la Philipo Lulyeho,21-Jun-21,"Pond,Temporary",19.5,33.5,Normal,Dry,14:00,14:15,Lymneae,None,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya A,Ng'wangoye,Kwa Shimboyo Luhoya,Lambo la Shimboyo,Lambo la Shimbolyo,21-Jun-21,"Pomd, permanent",35,53,Normal,Dry,11:40,11:55,None,"Sheep,Cow,Goat and feces",None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya B,Nyagi,Kwa Ng'wakaliwa,Kisima cha Ng'wakaliwa,Kisima cha Ng'wakaliwa,22-Jun-21,"Pond,Temporary",11.1,18.9,Normal,Dry,13:40,13:55,"Bulinus, Pila, Lymneae",None,Bulinus,11,0
+2021,June,Misungwi ,Kolomije,Ibongoya B,Nyambui,Kwa Ng'wamalinga,Kisima cha Ng'wamalinga,Kisima cha Ng'wamalinga,22-Jun-21,"Pond,Permanent",8.5,16,Normal,Dry,12:00,12:15,Bulinus,None,Bulinus,5,0
+2021,June,Misungwi ,Kolomije,Ibongoya B,Nyambuyi,Kwa Ng'wanhungo,Kisima cha Ng'wanhungo,Kisima cha Ng'wanhungo,22-Jun-21,"Pond,Permanent",28.5,47.3,Normal,Dry,11:31,11:46,Lymneae,None,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya B,Nyabugeni,Kwa Nyabugeni,Kisima cha Nyabugeni,Kisima cha Nyabugeni,22-Jun-21,"Pond,Permanent",8.7,14.1,Normal,Dry,12:55,13:10,"Bulinus,Pila.",None,Bulinus,33,0
+2021,June,Misungwi ,Kolomije,Ibongoya B,Nyagi,Kwa Nyagi,Kisima cha Nyagi,Kisima cha Nyagi,22-Jun-21,"Pond,Permanent",9,14,Normal,Dry,13:17,13:32,None,Feces,None,0,0
+2021,June,Misungwi ,Kolomije,Ibongoya B,Nyagi,Kwa Ng'honela,Lambo la Ng'honela,Lambo la Ng'honela,22-Jun-21,"Pond,Temporary",27,47,Normal,Dry,14:05,14:20,Bulinus,"Sheep,Cow,Goat and feces",Bulinus,7,0
+2021,June,Misungwi ,Kolomije,Ibongoya B,Ibongoya,Kwa Ng'wamang'wasa,Lambo_Kisima Ng'wamang'wasa,Lambo/Kisima Ng'wamang'wasa,22-Jun-21,"Pond,Permanent",13,24,Normal,Dry,10:59,11:14,Pila,Feces,None,0,0
+2021,July,Misungwi ,Shilalo,Ikungumhulu,Nhundulu,Kwa Nchilu mnyeti,Kisima cha Nchilu Mnyeti,Kisima cha Nchilu Mnyeti,2-Jul-21,"Pond,Temporary",14,19.7,Low,Dry,11:50,12:05,Bulinus,"Cow, Feces, Goats.",Bulinus,4,0
+2021,July,Misungwi ,Shilalo,Ikungumhulu,Nhundulu,Kwa Renard Ngelija,Kisima cha Renard ngeleji,Kisima cha Renard Ngeleji,2-Jul-21,"Pond,Temporary",21.3,37.9,Low,Dry,11:30,11:45,Bulinus,Feces,Bulinus,10,0
+2021,July,Misungwi ,Shilalo,Ikungumhulu,Mwanzuli,Kwa fugo Shinyama,Lambo la fugo shinyama,Lambo la Fugo Shinyama,2-Jul-21,"Pond,Temporary",29.8,49.8,Normal,Dry,10:15,10:30,Bulinus,"Cow, Sheep,Feces, Goats.",Bulinus,39,0
+2021,July,Misungwi ,Shilalo,Ikungumhulu,Igwata,Igwata,Lambo la Kijiji Igwata,Lambo la Kijiji Igwata,2-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Misungwi ,Shilalo,Ikungumhulu,Mwanzuli,Kwa Machai,Lambo la Machai,Lambo la Machai,2-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Misungwi ,Shilalo,Ikungumhulu,Nhundulu,Kwa shimbi George,Lambo la shimbi George,Lambo la Shimbi George,2-Jul-21,"Pond,Temporary",19.6,31.1,Normal,Dry,12:07,12:22,Bulinus,Feces,Bulinus,90,0
+2021,July,Misungwi ,Shilalo,Ikungumhulu,Igwata,Igwata,Lambo la Sospeter walwa,Lambo la Sospeter Walwa,2-Jul-21,"Pond,Temporary",2.7,6,Low,Dry,12:45,13:00,Bulinus,Feces,Bulinus,7,0
+2021,July,Magu,Sukuma,Iseni,Burundi,Kisima cha Burundi/Nojaminzi,Kisima cha Burundi/Nojaminzi,Kisima cha Burundi/Nojaminzi,13-Jul-21,"Pond,Temporary",10.6,20.6,Normal,Dry,12:06,12:21,Bulinus,Feces,Bulinus,23,0
+2021,July,Magu,Sukuma,Iseni,Rwanda,Kisima Cha Kibimbila ,Kisima Cha Kibimbila ,Kisima cha Kibimbila ,13-Jul-21,"Pond,Temporary",20.3,40.4,Normal,Dry,11:42,11:57,Bulinus,None,bulinus,5,0
+2021,July,Magu,Sukuma,Iseni,Iseni,Kisima cha Mwabalogi,Kisima cha Mwabalogi,Kisima cha Mwabalogi,13-Jul-21,"Pond,Temporary",34.5,54.5,Normal,Dry,10:30,10:45,"Bulinus,  Pila",None,Bulinus,8,0
+2021,July,Magu,Sukuma,Iseni,Mwabaluhi,Kisima cha mwakabizo,Kisima cha mwakabizo,Kisima cha Mwakabizo,13-Jul-21,"Pond,Temporary",27.4,53.7,Normal,Dry,12:39,12:54,None,None,None,0,0
+2021,July,Magu,Sukuma,Iseni,Rwanda,Lambo la Joseph Mayunga,Lambo la Joseph Mayunga,Lambo la Joseph Mayunga,13-Jul-21,"Pond,Temporary",0.7,1.3,Low,Dry,10:57,11:12,None,Feces,None,0,0
+2021,July,Magu,Sukuma,Iseni,Shomanyilwentemi,Lambo la Mwabulilo site 1,Lambo la Mwabulilo site 1,Lambo la Mwabulilo Site 1,13-Jul-21,"Pond,Temporary",23.5,32.5,Normal,Dry,9:45,10:00,None,feces,None,0,0
+2021,July,Magu,Sukuma,Iseni,Shomanyilwentemi,Lambo la Mwabulilo site 2,Lambo la Mwabulilo site 2,Lambo la Mwabulilo Site 2,13-Jul-21,"Pond,Temporary",2.5,4.8,Normal,Dry,10:03,10:18,Bulinus,"Cow, Feces",Bulinus,19,0
+2021,July,Magu,Sukuma,Iseni,Rwanda,Lambo la Rwanda,Lambo la Rwanda,Lambo la Rwanda,13-Jul-21,"Pond,Temporary",46.7,60.3,Normal,Dry,11:16,11:31,"Bulinus,  Pila","Cow, Sheep, Feces, Goat,",Bulinus,2,0
+2021,July,Sengerema,Buyagu,Isole,Senta,Kwa Simon Iswaga,Kisima cha Simon Iswaga,Kisima cha Simon Iswaga,3-Jul-21,"Pond,Permanent",8.5,16.7,Normal,Dry,11:59,12:14,"Bulinus,Lymneae ",None,Bulinus,24,0
+2021,July,Sengerema,Buyagu,Isole,Bugalama,Kwa Cosmas Ngusule,Lambo la Cosmas Ngusule,Lambo la Cosmas Ngusule,3-Jul-21,"Pond,Permanent",60.2,79.2,Normal,Dry,10:25,10:40,Bulinus,Cow and feces,Bulinus,13,1
+2021,July,Sengerema,Buyagu,Isole,Nduha,Kwa Joseph Malyengete,Lambo la Joseph Malyengete,Lambo la Joseph Malyengete,3-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Sengerema,Buyagu,Isole,Bugalama,Kwa Laurian Edward ,Lambo la Laurian Edward,Lambo la Laurian Edward,3-Jul-21,"Pond,Temporary",20,26.8,Normal,Dry,11:00,11:15,Bulinus and Pila,Feces,Bulinus,2,1
+2021,July,Sengerema,Buyagu,Isole,Mikolani,Kwa Paulo Lupama,Lambo la Paulo Lupama,Lambo la Paul Lupama,3-Jul-21,"Pond,Permanent",22,45,Normal,Dry,11:29,11:44,Bulinus and Pila,Feces,Bulinus,1,0
+2021,June,Misungwi ,Igokelo,Iteja,Iteja,Kwa Mwalimu,Kisima cha Mwalimu Ngole,Kisima cha Mwalimu Ngole,10-Jun-21,"Pond, Temporary",11.4,19.3,Normal,Dry,11:35,11:50,Bulinus,"Cow,",Bulinus,93,0
+2021,June,Misungwi ,Igokelo,Iteja,Buganda,Kwa Ng'wanongu,Kisima cha Ng'wanongu,Kisima cha Ng'wanongu,10-Jun-21,"Pond, Permanent",8.4,15.9,Normal,Dry,12:03,12:18,None,None,Bulinus,0,0
+2021,June,Misungwi ,Igokelo,Iteja,Iteja,Kwa Paulo Mashikuba,Kisima cha Paulo mashikuba,Kisima cha Paulo Mashikuba,10-Jun-21,"Pond, Temporary",16,22.5,Normal,Dry,11:17,11:32,None,None,None,0,0
+2021,June,Misungwi ,Igokelo,Iteja,Kabila,Kwa Ndoloja,Lambo la Nyandoloja,Lambo la Nyandoloja,10-Jun-21,"Pond, Permanent",32.7,52,Normal,Dry,12:24,12:39,Bulinus,"Cow, feces.",Bulinus,24,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Mitego A,Shule ya msingi Kanyelele,Kisima cha Ibhingo,Kisima cha Ibhingo,17-Jun-21,"Pond, Temporary",21.2,33.2,Normal,Dry,16:00,16:15,Bulinus,None,Bulinus,33,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Igando,Kwa Ilale,Kisima cha Ng'waluge,Kisima cha Ng'waluge,17-Jun-21,"Pond, Temporary",12,22.4,Normal,Dry,13:25,13:40,Bulinus,None,Bulinus,1,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Ng'wamba,Kwa Nyilila,Kisima cha Ng'wanyilila,Kisima cha Ng'wanyilila,17-Jun-21,"Pond, Temporary",16,31,Normal,Dry,16:45,17:00,Bulinus,None,Bulinus,7,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Malilo,Kwa Buyola,Lambo la Buyola,Lambo la Buyola,17-Jun-21,"Pond, Temporary",44.2,70.2,Normal,Dry,14:38,14:53,Lymnaea,None,None,0,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Ng'wamba,Kwa Nyilila,Lambo la Kanyelele,Lambo la Kanyelele,17-Jun-21,"Pond, Temporary",58,111,Normal,Dry,16:21,16:37,Bulinus,"Cow, Sheep,Dogs, Feces,Goats",Bulinus,19,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Wiyogolo,Kwa Maduka,Lambo la Ng'wamaduka,Lambo la Ng'wamaduka,17-Jun-21,"Pond, Temporary",37,60.6,Normal,Dry,15:00,15:15,None,Feces,None,0,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Malilo,Kwa Mahumbi,Lambo la Ng'wamahumbi,Lambo la Ng'wamahumbi,17-Jun-21,"Pond, Permanent",35,63.8,Normal,Dry,14:03,14:18,"Bulinus, Biomphalaria",None,Bulinus,11,0
+2021,June,Misungwi ,Kanyelele,Kanyelele,Wiyogolo,Kwa Makale,Lambo la Ng'wamakale,Lambo la Ng'wamakale,17-Jun-21,"Pond, Temporary",25,44,Normal,Dry,15:20,15:35,"Bulinus, Lymneae","Feces,cow,goat",Bulinus,29,0
+2021,July,Sengerema,Kasungamile,Kasungamile,Iseni,Kwa James Yamliga,Kisima cha James Yamlinga,Kisima cha James Yamliga,5-Jul-21,"Pond,permanent",8.3,15.6,Normal,Dry,13:37,13:52,"Bulinus, Lymnaeae, Pila",None,Bulinus,7,0
+2021,July,Sengerema,Kasungamile,Kasungamile,Nyachima,Kwa Jeremia Ndamulo,Kisima cha Jeremia,Kisima cha Jeremia,5-Jul-21,"Pond,permanent",5.4,8.7,Normal,Dry,9:40,9:55,"Bulinus,  Pila",None,Bulinus,8,0
+2021,July,Sengerema,Kasungamile,Kasungamile,Ng'walolela,Kwa Kasimu Hasani,Kisima cha Kasimu Hasani,Kisima cha Kasimu Hasani,5-Jul-21,"Pond,permanent",8.3,15.6,Normal,Dry,13:15,13:30,Pila and Lymneae,Feces,None,0,0
+2021,July,Sengerema,Kasungamile,Kasungamile,Nyachima,kwa Lazaro Makumiabili,Kisima cha Lazaro Makumiabili,Kisima cha Lazaro Makumiabili,5-Jul-21,"Pond,permanent",8,11.7,Normal,Dry,10:20,10:35,"Bulinus,  Pila",None,Bulinus,3,0
+2021,July,Sengerema,Kasungamile,Kasungamile,Iseni,Kwa Marco Mabina,Kisima Cha Marco Mabina,Kisima cha Marco Mabina,5-Jul-21,"Pond,permanent",11.4,15.7,Low,Dry,10:50,11:05,"Bulinus,  Pila",None,Bulinus,23,0
+2021,July,Sengerema,Kasungamile,Kasungamile,Kasungamile,Kwa Yeya Kiniga,Lambo la Yeya Kiniga,Lambo la Yeya Kiniga,5-Jul-21,"Pond,permanent",25.3,45.3,Normal,Dry,12:20,12:35,"Bulinus, Lymnaeae, Pila","Cow, Feces, Goats.",Bulinus,64,0
+2021,July,Sengerema,Kasungamile,Kasungamile,Nyakutoma,Kwa Ing'ombe,Lambo_Kisma Cha Ing'ombe,Lambo/Kisima cha Ing'ombe,5-Jul-21,"Pond,permanent",25,49,Normal,Dry,11:35,11:50,"Bulinus, Lymnaeae",Feces,Bulinus,37,4
+2021,July,Magu,Kitongosima,Kigangama,Kigangama A ,Kwa Kawawa,Kisima cha Kawawa,Kisima cha Kawawa,7-Jul-21,"Pond,Permanent",1.8,2.8,Low,Dry,9:00,9:15,None,None,None,0,0
+2021,July,Magu,Kitongosima,Kigangama,Nyamilama,Kwa Mashiku Majinga,Kisima cha kwa Masesa,Kisima cha kwa Masesa,7-Jul-21,"Pond,Permanent",5.8,9.5,Low,Dry,10:40,10:55,None,None,None,0,0
+2021,July,Magu,Kitongosima,Kigangama,Nyamilama,Kwa Mashiku Majinga,Lambo la Mashiku Majinga,Lambo la Mashiku Majinga,7-Jul-21,"Pond,Temporary",1.2,2.9,Low,Dry,10:20,10:35,None,None,None,0,0
+2021,July,Magu,Kitongosima,Kigangama,Mimbi,Kwa Sospeter Wangano,Lambo la Sospeter wangano,Lambo la Sospeter Wangano,7-Jul-21,"Pond,Temporary",6.6,9.6,Low,Dry,9:30,9:45,Bulinus,Feces and sheep,Bulinus,90,0
+2021,July,Magu,Kitongosima,Kigangama,Mimbi,Kwa Vicent Lenda,Lambo la Vicent Lenda,Lambo la Vicent Lenda,7-Jul-21,"Pond,Permanent",10.1,17.3,Normal,Dry,9:55,10:10,None,None,None,0,0
+2021,July,Kwimba,Lyoma,Kimiza,Mwabayanda,Lambo la kwa mkindiko,Lambo la kwa mkindiko,Lambo la kwa Mkindiko,30-Jul-21,"Pond, temporary",36,62,Normal,Dry,10:20,10:35,Lymneae,Feces,None,0,0
+2021,July,Kwimba,Lyoma,Kimiza,kimiza B,Lambo la kwa salida,Lambo la kwa salida,Lambo la kwa Salida,30-Jul-21,"Pond, temporary",37.1,66.8,Normal,Dry,11:19,11:34,Bulinus,Feces,Bulinus,4,0
+2021,July,Kwimba,Lyoma,Kimiza,Kimiza A,Lambo la kwa seni,Lambo la kwa seni,Lambo la kwa Seni,30-Jul-21,"Pond, Temporary",14.2,21.7,Low,Dry,11:40,11:55,Bulinus,Feces,Bulinus,18,0
+2021,July,Kwimba,Lyoma,Kimiza,Mwanyahinga,Lambo la mwashi,Lambo la mwashi,Lambo la Mwashi,30-Jul-21,"Pond, temporary",18.7,33.6,Normal,Dry,11:00,11:15,None,Feces,None,0,0
+2021,July,Kwimba,Lyoma,Kimiza,Kimiza A,Lambo la wakandarasi Kimiza A,Lambo la wakandarasi-Kimiza A,Lambo la Wakandarasi-Kimiza A,30-Jul-21,"Pond, temporary",47.9,78.9,Normal,Dry,12:01,12:16,Bulinus,Feces,Bulinus,32,0
+2021,July,Kwimba,Lyoma,Kimiza,Mwanyahinga,Lambo la wakandarasi Mwanyahinga,Lambo la wakandarasi-mwanyahinga,Lambo la Wakandarasi-Mwanyahinga,30-Jul-21,"Pond, temporary",12,22,Low,Dry,10:43,10:58,None,Feces,None,0,0
+2021,July,Kwimba,Lyoma,Kimiza,Nyangaka,Lambo/kisima cha kwa peter Mponeja,Lambo/kisima cha kwa peter Mponeja,Lambo/Kisima cha kwa Peter Mponeja,30-Jul-21,"Pond, Temporary",10.8,16.2,Low,Dry,12:27,12:42,None,Feces,None,0,0
+2021,July,Magu,Nyigongo,Kinango,Ibambula,Kwa Bulambu,Kisima cha Bulambu,Kisima cha Bulambu,12-Jul-21,"Pond,permanent",14.7,21.3,Normal,Dry,12:30,12:45,Bulinus,Feces,Bulinus,14,0
+2021,July,Magu,Nyigongo,Kinango,Isesabudaga,Kwa Masigani,Kisima_lambo kwa Masigani,Kisima/Lambo kwa Masigani,12-Jul-21,"Pond,permanent",22.4,35.8,Normal,Dry,12:05,12:20,"Bulinus,Pila,Biomphalaria and  lymneae",Feces,Bulinus,5,0
+2021,July,Magu,Nyigongo,Kinango,Ibambula,Kwa Malendeja,Lambo la Ngumo,Lambo la Ngumo,12-Jul-21,"Pond,permanent",36.6,63.2,Normal,Dry,12:50,13:05,Lymneae,Feces,None,0,0
+2021,July,Magu,Buhumbi,Kitongo,Mwabalatulu A,Kwa Lugondigija Malaba,Kisima Hang'ongwa,Kisima Hang'ongwa,13-Jul-21,"Pond,Temporary",3.8,6.8,Low,Dry,13:55,14:10,None,None,None,0,0
+2021,July,Magu,Buhumbi,Kitongo,Mwabatemi,kwa Luhya Kihinu,Lambo la Luhya Kihinu,Lambo la Luhya Kihinu,13-Jul-21,"Pond,Temporary",13.4,24.8,Low,Dry,14:20,14:35,Bulinus,None,Bulinus,4,1
+2021,July,Magu,Buhumbi,Kitongo,Mwabalatulu A,kwa Lugandigija Malaba,Lambo la Mwabalatulu,Lambo la Mwabalatulu,13-Jul-21,"Pond,Temporary",28.4,44.4,Normal,Dry,13:25,13:40,Lymnaea,None,None,0,0
+2021,June,Misungwi ,Kolomije,Kolomije,kolomije B,Hesawa mkuyuni,kisima cha Bustani Hesawa,Kisima cha Bustani Hesawa,19-Jun-21,"Pond,Temporary",11,16.1,Normal,Dry,8:45,9:00,Bulinus and Lymneae,"Sheep,cow, feces,goat",Bulinus,54,0
+2021,June,Misungwi ,Kolomije,Kolomije,Mwashesha,Kwa Mathias mlambalaji,kisima cha Huya,Kisima cha Huya,19-Jun-21,"Pond,Permanent",7,13.1,Normal,Dry,9:40,9:55,Bulinus and Pila,None,Bulinus,4,0
+2021,June,Misungwi ,Kolomije,Kolomije,kolomije A,Kanisa la AIC-kolomije,kisima cha kanisa la AIC,Kisima cha Kanisa la AIC,19-Jun-21,"Pond, temporary",6,11.4,Normal,Dry,9:05,9:20,Bulinus and Pila,None,Bulinus,46,0
+2021,June,Misungwi ,Kolomije,Kolomije,Ilungu,kwa Faustin Mseyi,kisima cha Ng'wangolo,Kisima cha Ng'wangolo,19-Jun-21,Pond' Permanent,7,13.6,Normal,Dry,9:28,9:33,Bulinus,None,Bulinus,35,0
+2021,June,Misungwi ,Kolomije,Kolomije,Ikilikili,kwa Nzumbi mayeka,kisima cha Ng'wanzumbi,Kisima cha Ng'wanzumbi,19-Jun-21,"Pond,Permanent",13.3,26.3,Normal,Dry,10:25,10:40,None,"Cow,Feces",Bulinus,0,0
+2021,June,Misungwi ,Kolomije,Kolomije,Mwashesha,Kwa Mathias mlambalaji,kisima cha Ng'washesha Mchangani,Kisima cha Ng'washesha Mchangani,19-Jun-21,"Pond,Permanent",9.3,15.6,Low,Dry,10:04,10:19,Bulinus,None,Bulinus,1,0
+2021,June,Misungwi ,Kolomije,Kolomije,Ikilikili,kwa kaselya,kisima/lambo kwa kaselya,Kisima/Lambo kwa Kaselya,19-Jun-21,"Pond,Temporary",13.2,20.2,Normal,Dry,11:10,11:25,None,None,None,0,0
+2021,July,Magu,Kitongosima,Lugeye,Hinda,Shamba la Mjiyantemi  Luhongola,Kisima cha Mjiyantemi Luhongola,Kisima cha Majiyantemi Luhongola,7-Jul-21,"Pond,Temporary",5.7,7.8,Low,Dry,11:30,11:45,Bulinus,None,Bulinus,74,0
+2021,July,Magu,Kitongosima,Lugeye,Ngashe,Shamba la James,Lambo la James,Lambo la James,7-Jul-21,"Pond,Temporary",49,58,Low,Dry,12:30,12:45,None,Feces,None,0,0
+2021,July,Magu,Kitongosima,Lugeye,Nyamilama,Kwa Mganga Marasta,Lambo la Mganga Marasta,Lambo la Mganga Marasta,7-Jul-21,"Pond,Temporary",2.1,3.6,Low,Dry,11:10,11:25,None,Feces and cow,None,0,0
+2021,July,Magu,Kitongosima,Lugeye,Mbuga B,Kwa Mzee Kanyelema Nkulumo,Lambo la Mzee Kanyelema Nkululo,Lambo la Mzee Kanyelema Nkululo,7-Jul-21,"Pond,Permanents",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Magu,Kitongosima,Lugeye,Ngashe,Eneo la Ngunzo za Umeme,Lambo la Ngashe,Lambo la Ngashe,7-Jul-21,"Pond,Permanents",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Magu,Kitongosima,Lugeye,Mbuga A,Eneo la Sali Mlimani,Lambo la Sali Mlimani,Lambo la Sali Mlimani,7-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Busega,Igalukilo,Lunala,Mwabagikulu,Kwa Eliza Musa,Kisima cha Hamisi,Kisima cha Hamisi,21-Jul-21,"Pond,Permanent",10.5,16.5,Normal,Dry,11:50,12:05,None,None,None,0,0
+2021,July,Busega,Igalukilo,Lunala,Mwabayanda,Shamba la Daniel Mussa,Lambo/Mto wa Makuyuda Mwabayanda,Lambo/Mto wa Makuyuda Mwabayanda,21-Jul-21,"River,Permanent",72.1,80,Low,Dry,12:37,12:52,"Bulinus, Biomphalaria,Lymneae","cow,Feces, Dogs.",Bulinus,112,9
+2021,July,Busega,Igalukilo,Lunala,Mwasubuya,Shamba la Andrea Sumuni,Mto Lunala,Mto Lunala,21-Jul-21,"River,Permanent",70,73.5,Low,Dry,13:17,13:32,"Bulinus, Biomphalaria,Lymneae","Feces,cow",Bulinus,10,7
+2021,July,Busega,Igalukilo,Lunala,Isamilo,Eneo Lucas Lugata,Mto wa Makuyuda Isamilo,Mto wa Makuyuda Isamilo,21-Jul-21,"River,Temporary",36,41.7,Low,Dry,10:46,10:55,"Bulinus, Biomphalaria","Cow,,Feces.",Bulinus,89,0
+2021,July,Busega,Igalukilo,Lunala,Mwabagikulu,Eneo la Mzee Zephania Telemala,Mto wa Makuyuda Mwabagikulu,Mto wa Makuyuda Mwabagikulu,21-Jul-21,"Pond,Permanent",30,34,Low,Dry,12:10,12:25,"Bulinus, Biomphalaria","Feces,cow",Bulinus,90,12
+2021,June,Misungwi ,Mondo,Maganzo,Maganzo,Kwa Luhalamla,Kisima Cha kwa Luhalamla,Kisima cha kwa Luhalamla,28-Jun-21,"Pond,Permanent",20,32,Normal,Dry,11:14,11:29,Bulinus,Feces,Bulinus,45,0
+2021,June,Misungwi ,Mondo,Maganzo,Maganzo,Kwa Mganga Marasta,Kisima cha Mganga,Kisima cha Mganga,28-Jun-21,"Pond,Temporary",8,15.3,Normal,Dry,10:15,10:30,"Bulinus, Pila.",Dogs,Bulinus,62,0
+2021,June,Misungwi ,Mondo,Maganzo,Maganzo,Kwa Solleya Ng'wanzilwa,Kisima cha Suleya,Kisima cha Suleya,28-Jun-21,"Pond,Temporary",3.2,5.4,Normal,Dry,11:45,12:00,None,None,None,0,0
+2021,June,Misungwi ,Mondo,Maganzo,Maganzo,Kwa Kusekwa Ngunda,Kisima cha Suswa,Kisima cha Suswa,28-Jun-21,"Pond,Temporary",6.3,11.8,Normal,Dry,12:17,12:32,"Bulinus, Pila.",Feces,Bulinus,3,0
+2021,June,Misungwi ,Mondo,Maganzo,See,kwa Lugonda Mkono,Lambo la Ilinde kwa Lugonda ,Lambo la Ilinde kwa Lugonda ,28-Jun-21,"Pond,Permanent",31.7,49.7,Normal,Dry,10:42,10:57,"Bulinus, Pila.",None,Bulinus,31,0
+2021,July,Magu,Shishani,Mahaha,Madukani A,Kisima cha kwa Sokoni,Kisima cha kwa Sokoni,Kisima cha kwa Sogoni,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Magu,Shishani,Mahaha,Shilushi,Kisima cha Mwakalogi,Kisima cha Mwakalogi,Kisima cha Mwakalogi,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Magu,Shishani,Mahaha,Mapagala C,Kisima cha Mwamalongo,Kisima cha Mwamalongo,Kisima cha Mwamalongo,16-Jul-21,"Pond,Permanent",53,76,Normal,Dry,15:05,15:20,"Bulinus, Lymneae","Cow,Sheep,Feces, Dogs, Goat.",Bulinus,50,0
+2021,July,Magu,Shishani,Mahaha,Mapagala A,Kisima cha Mwashilabi,Kisima cha Mwashilabi,Kisima cha Mwashilabi,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Magu,Shishani,Mahaha,Shalushi,Lambo la kwa Sahani,Lambo la kwa Sahani,Lambo la kwa Shahani,16-Jul-21,"Pond,Temporary",17,27,Low,Dry,14:15,14:30,Bulinus,Feces,Bulinus,68,0
+2021,July,Magu,Shishani,Mahaha,Madukani A,Lambo la Mwabudala,Lambo la Mwabudala,Lambo la Mwabudala,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Magu,Shishani,Mahaha,Mapagala A,Lambo la Shule ,Lambo la Shule,Lambo la Shule,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Magu,Shishani,Mahaha,Madukani B,Lambo la Shule ya Msingi,Lambo la Shule ya Msingi,Lambo la Shule ya Msingi,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,August,Kwimba,Ng'wanghalanga,Mahiga ,Maguha,Bwawa la Umwagiliaji,Bwawa la Umwagiliaji,Bwawa la Umwagiliaji,1-Aug-21,"Dam, Permanent",2298,3598,Normal,Dry,11:19,11:34,Melanoides,"cow,sheep,Feces & goat",None,0,0
+2021,August,Kwimba,Ng'wanghalanga,Mahiga ,Maguha,Lambo la  Maguha kwa Kasimu Mbushi,Lambo la Maguha kwa Kasimu Mbushi,Lambo la Maguha kwa Kasimu Mbushi,1-Aug-21,"Pond, Permanent",15,25,Normal,Dry,12:01,12:16,Bulinus,Feces,Bulinus,132,0
+2021,August,Kwimba,Ng'wanghalanga,Mahiga ,Chamalendi,Lambo la Chamalendi,Lambo la Chamalendi,Lambo la Chamalendi,1-Aug-21,"Pond, Permanent",2,3.6,Low,Dry,12:23,12:38,None,"Cow,sheep,Feces &goat",None,0,0
+2021,August,Kwimba,Ng'wanghalanga,Mahiga ,Mahiga,Lambo la kwa Robert Msalaba,Lambo la kwa Robert Msalaba,Lambo la kwa Robert Msalaba,1-Aug-21,"Pond, Temporary",23,44,Low,Dry,10:32,10:47,Bulinus,Feces,Bulinus,61,0
+2021,August,Kwimba,Ng'wanghalanga,Mahiga ,Maguha,Lambo la Maguha kwa Nkubamange,Lambo la Maguha kwa Nkubamange,Lambo la Maguha kwa Nkubamange,1-Aug-21,"Pond, Permanent",41,64,Normal,Dry,10:59,11:14,None,Feces,None,0,0
+2021,August,Kwimba,Ng'wanghalanga,Mahiga ,Mwamagangati,Lambo la maliganya Machiya,Lambo la maliganya Machiya,Lambo la Maliganya Machiya,1-Aug-21,"Pond, Temporary",23.8,36.3,Normal,Dry,10:12,10:27,None,Feces,None,0,0
+2021,July,Busega,Igalukilo,Malangale,Mwamiswa,Kwa Maduhu,Kisima cha Kandalasi,Kisima cha Kandalasi,27-Jul-21,"Pond,Temporary",8,15.5,Low,Dry,10:00,10:15,None,None,None,0,0
+2021,July,Busega,Igalukilo,Malangale,Mwamiswa,Kwa Razaro,Kisima cha Mwamatudi,Kisima cha Mwamatudi,27-Jul-21,"Pond,Permanent",13,21.3,Normal,Dry,10:30,10:45,Bulinus,None,Bulinus,16,0
+2021,July,Busega,Igalukilo,Malangale,Buchela,Kwa Someke,Kisima cha Mwandwike,Kisima cha Mwandwike,27-Jul-21,"Pond,Permanent",20,35,Normal,Dry,11:02,11:17,Bulinus,None,Bulinus,1,0
+2021,July,Busega,Malili,Malili,Majimoto,Kwa Mwamasebu,Kisima cha Mwamasebu,Kisima cha Mwamasebu,26-Jul-21,"Pond,Temporary",8,12.2,Low,Dry,14:20,14:35,Bulinus,Feces,Bulinus,18,0
+2021,July,Busega,Malili,Malili,Buchela,Kwa Salamba,Kisima cha Ng'wasalamba,Kisima cha Ng'wasalamba,26-Jul-21,"Pond,Temporary",12.5,19.2,Low,Dry,15:35,15:50,Bulinus,Feces,Bulinus,35,0
+2021,July,Busega,Malili,Malili,Buchela,Nyabazanagi,Kisima cha Nyabazanagi,Kisima cha Nyabazanagi,26-Jul-21,"Pond,Permanents",8.2,16.2,Low,Dry,15:15,15:30,"Bulinus, Biomphalaria",None,Bulinus,42,0
+2021,July,Busega,Malili,Malili,Chinamili,Kwa Joseph Bucheyeki,Lambo la Joseph Bucheyeki,Lambo la Joseph Bucheyeki,26-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Malili,Malili,Malili,Lambo la Kibanio,Lambo la Kibanio,Lambo la Kibanio,26-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Malili,Malili,Chinamili,Lambo la Mbugani,Lambo la Mbugani,Lambo la Mbugani,26-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Busega,Badugu,Manala,Igwata,Kisima cha Ibengo,Kisima cha Ibengo,Kisima cha Ibengo,17-Jul-21,"Pond,Temporary",32.8,49.8,Normal,Dry,12:38,12:53,Bulinus,Dogs,Bulinus,61,0
+2021,July,Busega,Badugu,Manala,Igwata,Kisima cha Nyunjiwa,Kisima cha Nyunjiwa,Kisima cha Nyunjiwa,17-Jul-21,"Pond,Temporary",16,27,Normal,Dry,13:30,13:45,Bulinus,None,Bulinus,17,0
+2021,July,Busega,Badugu,Manala,Igwata,Lambo la Bukelebe,Lambo la Bukelebe,Lambo la Bukelebe,17-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Badugu,Manala,Wela,Lambo la kwa Asha Kabengwe,Lambo la kwa Asha Kabengwe,Lambo la kwa Asha Kabengwe,17-Jul-21,"Pond,Permanent",41,83,Normal,Dry,15:00,15:15,None,Sheep and Feces,None,0,0
+2021,July,Busega,Badugu,Manala,Nyabudito,Lambo la Madaraka,Lambo la Madaraka,Lambo la Madaraka,17-Jul-21,"Pond,Temporary",22.5,34,Normal,Dry,12:05,12:20,Bulinus,Feces,Bulinus,24,0
+2021,July,Busega,Badugu,Manala,Nyakaduku,Lambo La Mwanagolola,Lambo la Mwanagolola,Lambo la Mwanagolola,17-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,"Sheep,Feces and sheep",None,0,0
+2021,July,Busega,Badugu,Manala,Mwawanga,Lambo la Nyamatembe,Lambo la Nyamatembe,Lambo la Nyamatembe,17-Jul-21,"Pond,Permanent",43.6,71.4,Normal,Dry,14:05,14:20,"Bulinus, Biomphalaria",Cow and feces,Bulinus,6,0
+2021,June,Misungwi ,Igokelo,Mbela,Mbela D,Kwa Hehela,Kisima cha Hehela,Kisima cha Hehela,16-Jun-21,"Pond, Temporary",10,13,Normal,Dry,13:56,14:26,Bulinus,None,Bulinus,11,0
+2021,June,Misungwi ,Igokelo,Mbela,Mbela D,Kwa Kasekele,Kisima cha Kasekele,Kisima cha Kasekele,16-Jun-21,"Pond, Temporary",9,12,Normal,Dry,15:00,15:15,"Bulinus, Lymneae",None,Bulinus,2,0
+2021,June,Misungwi ,Igokelo,Mbela,Mbela Secondary,Kwa Mapuli Mbela,Kisima cha Mapuli,Kisima cha Mapuli,16-Jun-21,"Pond, Permanent",10,16,Normal,Dry,13:02,13:17,None,None,None,0,0
+2021,June,Misungwi ,Igokelo,Mbela,Mbela C,Kwa John Mahugoja,Kisima/lambo John Mahugija ,Kisima/Lambo John Mahugija ,16-Jun-21,"Pond, Permanent",35,58,Normal,Dry,12:40,12:55,"Bulinus, Lymneae.","Cow, Feces.",Bulinus,40,4
+2021,June,Misungwi ,Igokelo,Mbela,Misri,Kwa Azizi Salum,Lambo la Azizi Salum,Lambo la Azizi Salum,16-Jun-21,"Pond, Permanent",23.6,35.6,Normal,Dry,13:58,14:13,None,None,None,0,0
+2021,June,Misungwi ,Igokelo,Mbela,Mbela Secondary,Kwa Dalali,Lambo la Dalali,Lambo la Dalali,16-Jun-21,"Pond, Temporary",10,15.8,Normal,Dry,13:21,13:36,Bulinus,None,Bulinus,32,0
+2021,June,Misungwi ,Igokelo,Mbela,Mbela B,Kwa Mama Neema,Lambo la Kwa Mama Neema,Lambo la kwa Mama Neema,16-Jun-21,"Pond, Temporary",25,17,Normal,Dry,14:40,14:55,"Bulinus, pila",feces,Bulinus,24,0
+2021,June,Misungwi ,Igokelo,Mbela,Misri,Kwa Zakim,Lambo la Zakim,Lambo la Zakim,16-Jun-21,"Pond, Temporary",19,31.4,Normal,Dry,14:15,14:30,Bulinus,"Cow, Feces. ",Bulinus,5,0
+2021,July,Busega,Mkula,Mkula,Masanganya A,Lambo  la Wachina ,Lambo la Wachina ,Lambo la Wachina,20-Jul-21,"Pomd, permanent",147,170,Normal,Dry,13:15,13:30,Bulinus,"cow, Feces, sheep, Goat",Bulinus,59,2
+2021,July,Busega,Mkula,Mkula,Mwangimu,Kwa Mwangimu,Lambo la Mwangimu,Lambo la Mwangimu,20-Jul-21,"Pomd, permanent",53,88,Normal,Dry,12:53,13:08,Bulinus,Feces,Bulinus,41,1
+2021,July,Kishapu,Songwa,Mpumbula,Itegamatu,Lambo la kwa Lucas Emmanuel,Lambo la kwa Lucas Emmanuel,Lambo la kwa Lucas Emmanuel,28-Jul-21,"Pond, temporary",6,9,Low,Dry,14:51,15:06,None,Feces,None,0,0
+2021,July,Kishapu,Songwa,Mpumbula,Ibindo,Lambo la kwa njile jifungo site 1,Lambo la kwa njile jifungo site 1,Lambo la kwa Njile Jifungo Site 1,28-Jul-21,"Pond, temporary",2.7,4.3,Low,Dry,14:10,14:25,Bulinus,Feces,Bulinus,96,0
+2021,July,Kishapu,Songwa,Mpumbula,Ibindo,Lambo la kwa njile jifungo site 2,Lambo la kwa njile jifungo site 2,Lambo la kwa Njile Jifungo Site 2,28-Jul-21,"Pond, temporary",4.9,10,Low,Dry,14:29,14:44,None,Feces,None,0,0
+2021,July,Kishapu,Songwa,Mpumbula,Imalabupina,Lambo la madilo sahani,Lambo la madilo sahani,Lambo la Madilo Sahani,28-Jul-21,"Pond, temporary",12,22,Low,Dry,13:42,13:57,Bulinus,Feces,Bulinus,132,0
+2021,July,Sengerema,Buyagu,Mulaga,Mbeya,Kwa Kubilu Maliganya,Lambo la Kubilu Maliganya,Lambo la Kubilu Maliganya,3-Jul-21,"Pond,Temporary",13.7,27,Normal,Dry,12:44,12:59,Bulinus and Pila,Feces,Bulinus,1,0
+2021,July,Kwimba,Maligisu,Mwabaratulu,Sagenge,Lambo la Igolola,Lambo la Igolola,Lambo la Igolola,31-Jul-21,"Pond, temporary",5.4,10.8,Low,Dry,10:57,11:12,None,Feces,None,0,0
+2021,July,Kwimba,Maligisu,Mwabaratulu,Mwazimba,Lambo la kwa Ngeni,Lambo la kwa Ngeni,Lambo la kwa Ngeni,31-Jul-21,"Pond, temporary",17,33,Low,Dry,12:05,12:20,None,"Cow,Feces, Dogs.",None,0,0
+2021,July,Kwimba,Maligisu,Mwabaratulu,Mwabadimi,Lambo la kwa Nyanda,Lambo la kwa Nyanda,Lambo la kwa Nyanda,31-Jul-21,"Pond, temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Kwimba,Maligisu,Mwabaratulu,Igulya,Lambo la machibula,Lambo la machibula,Lambo la Machibula,31-Jul-21,"Pond, temporary",10.9,19.6,Low,Dry,9:51,10:06,None,Feces,None,0,0
+2021,July,Kwimba,Maligisu,Mwabaratulu,Igwata,Lambo la makologa,Lambo la makologa,Lambo la Makologa,31-Jul-21,"Pond, temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Kwimba,Maligisu,Mwabaratulu,Igulya,Lambo la malulu,Lambo la malulu,Lambo la Malulu,31-Jul-21,"Pond, temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Kwimba,Maligisu,Mwabaratulu,Sagenge,Lambo la Nkono gwantemi,Lambo la Nkono gwantemi,Lambo la Nkono Gwantemi,31-Jul-21,"Pond, temporary",20.9,40.9,Normal,Dry,10:30,10:45,Bulinus ,"Cow,Sheep,Feces, goat",Bulinus,13,0
+2021,June,Misungwi ,Ukirigulu,Mwagala ,Mwagala,Kwa Maguga,Kisima cha Mwagala kwa Magunga Site 2,Kisima cha Mwagala kwa Magunga Site 2,28-Jun-21,"Pond,Permanent",4.4,22.1,Normal,Dry,15:52,16:13,"Bulinus, Pila.",Feces,Bulinus,8,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Ng'wasumbuya,Kwa Juma Lunyilija,Kisima cha Juma,Kisima cha Juma,14-Jun-21,"Pond, Permanent",6,11,Normal,Dry,10:30,10:45,Bulinus,None,Bulinus,9,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Ng'oma,kwa Kihamba kilyabujigi,Kisima cha kihamba,Kisima cha Kihamba,14-Jun-21,"Pond, Temporary",13.7,24.8,Normal,Dry,11:20,11:35,Lymneae,Feces,None,0,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Sumbuka B,Kwa Lushona Kuli,Kisima cha Kuli,Kisima cha Kuli,14-Jun-21,"Pond, Permanent",7.5,13.1,Normal,Dry,15:05,15:20,Pila,None,None,0,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Ng'wakalima,Kwa Daniel,Kisima cha kwa Daniel,Kisima cha kwa Daniel,14-Jun-21,"Pond, Temporary",12,19,Normal,Dry,14:05,14:20,Bulinus,Feces,Bulinus,1,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Nyang'homango,Kwa maganga,Kisima cha kwa Maganga,Kisima cha kwa Maganga,14-Jun-21,"Pond, Temporary",11,18,Normal,Dry,16:05,16:20,Pila,None,None,0,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Ng'wasumbuya,Kwa Juma Shilangila,Kisima cha Luvogo,Kisima cha Luvogo,14-Jun-21,"Pond, Permanent",8,15.3,Normal,Dry,9:50,10:05,"Bulinus, Pila",None,Bulinus,4,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Sumbuka A,Kwa Hoja Lalila,Kisima cha Magigo,Kisima cha Magigo,14-Jun-21,"Pond, Temporary",10.6,15.4,Normal,Dry,12:53,13:08,"Bulinus,Lymneae",None,Bulinus,1,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Sumbuka A,Kisima cha Ng'waya,Kisima cha Ng'waya,Kisima cha Ng'waya,14-Jun-21,"Pond, Permanent",11,18.2,Normal,Dry,12:20,12:35,"Bulinus,Lymneae and Biomphalaria",None,Bulinus,1,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Malla,Kwa Nyasato,Kisimani kwa Nyasato,Kisimani kwa Nyasato,14-Jun-21,"Pond, Temporary",11,20.5,Normal,Dry,15:25,15:40,Bulinus,None,Bulinus,31,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Malla,Kwa Mathias Gatuba,Lambo la Gatuba,Lambo la Gatuba,14-Jun-21,"Pond, Temporary",25.1,44,Normal,Dry,15:45,16:00,None,Feces,None,0,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Sumbuka A,Lambo la Maneno busumabu,Lambo la Maneno,Lambo la Maneno,14-Jun-21,"Pond, Temporary",30,55,Normal,Dry,12:00,12:15,Bulinus,Feces,Bulinus,30,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Sumbuka A,Lambo la Mikola,Lambo la Mikola,Lambo la Mikola,14-Jun-21,"Pond, Temporary",36.6,65.2,Normal,Dry,13:10,13:25,"Bulinus,Lymneae and Pila","Cow,Sheep and feces",Bulinus,12,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Ng'wakalima,Kwa Mlyomi,Lambo la Mlyomi,Lambo la Mlyomi,14-Jun-21,"Pond, Permanent",34.5,64.8,Normal,Dry,14:40,14:55,"Bulinus,Pila","Cow, Sheep,Dogs, Feces. Goats",Bulinus,24,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Ng'oma,kwa Charles lutemenha,Lambo la Ng'wamakole(Ng'wamakomelo),Lambo la Ng'wamakole(Ng'wamakomelo),14-Jun-21,"Pond, Temporary",40,74,Normal,Dry,10:55,11:10,Bulinus,"Feces, Cow",Bulinus,1,0
+2021,June,Misungwi ,Kanyelele,Mwakalima,Ng'wakalima,Lambo la Njegele,Lambo la Njegele,Lambo la Njegele,14-Jun-21,"Pond, Permanent",90.4,136.4,Normal,Dry,13:40,13:55,Lymneae and Pila,"Cow,Sheep",Bulinus,2,0
+2021,June,Misungwi ,Mamaye,Mwalwigi,Fugamgwe,Kwa ibogo,Kisima _ Lambo la Ibogo,Kisima/Lambo la Ibogo,23-Jun-21,"Pond,Temporary",27,50,Normal,Dry,10:02,10:17,None,"Sheep,Cow,Goat and feces",None,0,0
+2021,June,Misungwi ,Mamaye,Mwalwigi,Ilobelo,Shuleni,Kisima cha shuleni,Kisima cha Shuleni,23-Jun-21,"Pond,Temporary",15.7,29.7,Normal,Dry,9:16,9:31,None,Feces,None,0,0
+2021,June,Misungwi ,Mamaye,Mwalwigi,Idedeng'hanya,Kwa lumaneja,Lambo la kwa Lumaneja,Lambo la kwa Lumaneja,23-Jun-21,"Pond,Temporary",11.4,16.4,Normal,Dry,10:20,10:35,"Bulinus' Lymeae, Pila",None,Bulinus,23,0
+2021,June,Misungwi ,Mamaye,Mwalwigi,Fugamgwe,Kwa lukona,Lambo la Lukona,Lambo la Lukona,23-Jun-21,"Pond,Temporary",32,41,Normal,Dry,11:30,11:45,Bulinus,"Cow, Feces, Dogs,sheep and goat",Bulinus,1,0
+2021,June,Misungwi ,Mamaye,Mwalwigi,Mwashimbe,Kwa Nyakasalika,lambo_kiisma Nyakasalika,Lambo.Kisma Nyakasalika,23-Jun-21,"Pond,Temporary",34,64,Normal,Dry,9:45,10:00,None,"Sheep,Cow,Goat and feces",None,0,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Mwamabanza,Kwa  Kisale,Kisima cha kwa kisale,Kisima cha kwa Kisale,8-Jul-21,"Pond,Temporary",2.6,4.9,Low,Dry,11:58,12:13,Bulinus,None,Bulinus,40,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Ntinda,Kwa Kitakung'wa,Kisima cha kwa Kitakung'wa,Kisima cha kwa Kitakung'wa,8-Jul-21,"Pond,Temporary",15,26,Low,Dry,14:05,14:20,Bulinus,None,Bulinus,85,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Bupandwa,Kwa Lutonja,Kisima cha kwa Lutonja,Kisima cha kwa Lutonja,8-Jul-21,"Pond,Temporary",8.2,16,Low,Dry,13:00,13:15,None,None,None,0,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Bupandwa,Kwa Makelemo,Kisima cha kwa Makelemo,Kisima cha kwa Makelemo,8-Jul-21,"Pond,Temporary",19.5,36.9,Low,Dry,13:45,14:00,Bulinus,Feces,Bulinus,56,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Bupandwa,Kwa selelman,Kisima cha kwa Seleman,Kisima cha kwa Seleman,8-Jul-21,"Pond,Temporary",2.6,5.1,Low,Dry,13:20,13:35,"Bulinus,Pila.",None,Bulinus,21,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Mwamabanza,Kwa Solo,Kisima_Lambo la Solo,Kisima/Lambo la Solo,8-Jul-21,"Pond,Temporary",1.8,3.5,Low,Dry,12:16,12:31,Bulinus,None,Bulinus,4,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Ntinda,Kwa Masilingi,Lambo la kwa Masilingi,Lambo la kwa Masilingi,8-Jul-21,"Pond,Temporary",14,25.2,Low,Dry,15:00,15:15,"Bulinus,Pila.",None,Bulinus,32,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Mwamabanza,Kwa Mayungwa,Lambo la kwa Mayungwa,Lambo la kwa Mayungwa,8-Jul-21,"Pond,Temporary",4,6,Low,Dry,16:15,16:30,Bulinus,None,None,0,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Ntinda,Kwa Misungwi,Lambo la kwa Misungwi,Lambo la kwa Misungwi,8-Jul-21,"Pond,Temporary",16.2,27.3,Normal,Dry,14:30,14:45,Bulinus,None,Bulinus,64,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Ihole,Kwa Ntenga,Lambo la kwa Ntega,Lambo la kwa Ntenga,8-Jul-21,"Pond,Temporary",19,29.2,Low,Dry,15:30,15:45,"Bulinus,Pila.",Feces,Bulinus,11,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Bupandwa,Kwa shauli,Lambo la kwa Shauli,Lambo la kwa Shauli,8-Jul-21,"Pond,Temporary",8.3,14.1,Normal,Dry,12:40,12:55,"Bulinus,Pila.","Sheep,feces and goats",Bulinus,32,0
+2021,July,Magu,Mwamabanza,Mwamabanza,Mwamabanza, kwa Solwa,Lambo la kwa Solwa,Lambo la kwa Solwa,8-Jul-21,"Pond,Temporary",1,2,Low,Dry,15:55,16:10,Bulinus,Feces,Bulinus,3,0
+2021,July,Busega,Igalukilo,Mwamagigisi,Mwamkinga,Kwa solima,Kisima cha Mwamkinga,Kisima cha Mwamkinga,21-Jul-21,"Pond,Temporary",13.5,24.8,Low,Dry,15:32,15:47,None,"Feces,Cow",None,0,0
+2021,July,Busega,Igalukilo,Mwamagigisi,Mwabonji,Kwa Tabu Igenge,Kisima cha Ng'wambiti,Kisima cha Ng'wambiti,21-Jul-21,"Pond,Permanent",10,15.3,Normal,Dry,16:18,16:33,Bulinus,None,Bulinus,48,0
+2021,July,Busega,Igalukilo,Mwamagigisi,Nyangili,Eneo la kijiji,Lambo la Shalyanga,Lambo la Shalyanga,21-Jul-21,"Pond,Permanent",99.4,194.4,Normal,Dry,15:55,16:10,None,"Cow,Feces, Dogs.",None,0,0
+2021,June,Misungwi ,Mondo,Mwamanga,Mwamanga,Lambo la Ilende,Lambo la Ilende,Lambo la Ilende,28-Jun-21,"Pond,Permanent",15,23,Normal,Dry,13:27,13:42,"Bulinus,Pila.",Feces,Bulinus,12,0
+2021,June,Misungwi ,Mondo,Mwamanga,Machimbo,Lambo la Wanga,Lambo la Wanga,Lambo la Wanga,28-Jun-21,"Pond,Temporary",59,91,Normal,Dry,13:55,14:10,Bulinus,Feces,Bulinus,1,0
+2021,June,Misungwi ,Mondo,Mwamanga,Misheni,Lambo la Zakhem,Lambo la Zakhem,Lambo la Zakhem,28-Jun-21,"Pond,Temporary",206,275,Normal,Dry,13:00,13:15,None,"Sheep,Cow,Goat and feces",None,0,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Mwambola A,Kwa kihongola,Kisima cha Ng'washipolo,Kisima cha Ng'washipolo,20-Jun-21,"Pond,Temporary",12.5,24.5,Normal,Dry,9:46,10:01,Bulinus'Lymneae.,None,Bulinus,8,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Mwambola B,Kwa Bulu Msagaje,Lambo la kwa Bulu,Lambo la kwa Bulu,20-Jun-21,"Dam, Permanent",27,46.3,Normal,Dry,10:55,11:10,None,None,None,0,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Mwambola A,Lambo la Lyahanzila,Lambo la Lyahanzila,Lambo la Lyahanzila,20-Jun-21,Pond'Temporary,31,60.4,Normal,Dry,9:00,9:15,Bulinus'Lymneae.,"Cow,Feces",Bulinus,2,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Ng'wamanyilili,Kwa mayombya,Lambo la Mayombya,Lambo la Mayombya,20-Jun-21,"Dam, Permanent",34,57,Normal,Dry,11:30,11:45,None,"Cow, Feces,sheep and goat.",Bulinus,0,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Mwambola A,Ng'wamahugija,Lambo la Ng'wamahugija,Lambo la Ng'wamahugija,20-Jun-21,"Pond,Temporary",34,63,Normal,Dry,9:22,9:37,Bulinus'Lymneae.,None,Bulinus,15,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Ng'wamulya,Ng'wamulya,Lambo la Ng'wamulya,Lambo la Ng'wamulya,20-Jun-21,"Pond,Temporary",42,58,Normal,Dry,12:45,13:00,Bulinus,"Cow, Feces,sheep and goat.",Bulinus,11,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Mitindo,Ng'wawambula,Lambo la Ng'wawambula,Lambo la Ng'wawambula,20-Jun-21,"Pond, Permanent",11.1,18.1,Low,Dry,12:15,12:30,Lymneae,"Cow, Feces,and goat.",Bulinus,0,0
+2021,June,Misungwi ,Misungwi ,Mwambola,Mwambola B,Lambo_Kisima cha Shigabo,Lambo_Kisima cha Shigabo,Lambo/Kisima cha Shigabo,20-Jun-21,"Pond,Temporary",31.7,51.7,Normal,Dry,10:25,10:40,"Bulinus, Pila, Lymneae","Cow, Sheep,goat.",Bulinus,27,0
+2021,July,Magu,Buhumbi,Mwamibanga,Mwamibanga A,Kisima cha kwa Bagi,Kisima cha kwa Bagi,Kisima cha kwa Bagi,14-Jul-21,"Pond,Temporary",11.5,22.5,Normal,Dry,13:10,13:25,Bulinus,None,Bulinus,121,0
+2021,July,Magu,Buhumbi,Mwamibanga,Iseni,Kisima cha kwa Sinzo,Kisima cha kwa Sinzo,Kisima cha kwa Sinzo,14-Jul-21,"Pond,Temporary",9,14,Low,Dry,14:30,14:45,None,None,None,0,0
+2021,July,Magu,Buhumbi,Mwamibanga,Iseni,Kisima kwa Ntungwa,Kisima kwa Ntungwa,Kisima kwa Ntungwa,14-Jul-21,"Pond,Temporary",14,25,Normal,Dry,14:00,14:15,None,None,None,0,0
+2021,July,Magu,Buhumbi,Mwamibanga,Mwamibanga A,Lambo la Lung'wecha,Lambo la Lung'wecha,Lambo la Lung'wecha,14-Jul-21,"Pond,Temporary",7.9,13.6,Normal,Dry,13:30,13:45,Bulinus,Feces,Bulinus,104,0
+2021,July,Busega,Shigala,Mwamugoba,Dulasi,Lambo la Bukombe,Lambo la Bukombe,Lambo la Bukombe,26-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Shigala,Mwamugoba,Mwabuchuma,Lambo la Mathiasi,Lambo la Mathiasi,Lambo la Mathiasi,26-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Kishapu,Mondo,Mwigumbi,Mwabayanda,Bwawa la mhumbu,Bwawa la mhumbu,Bwawa la Mhumbu,28-Jul-21,"Dam,permanent",2540,4180,Normal,Dry,10:40,11:10,Melanoides,Feces,None,0,0
+2021,July,Kishapu,Mondo,Mwigumbi,Bulahu,Lambo la kwa weja site 1,Lambo la kwa weja site 1,Lambo la kwa Weja Site 1,28-Jul-21,"Pond, temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Kishapu,Mondo,Mwigumbi,Bulahu,Lambo la kwa weja site 2,Lambo la kwa weja site 2,Lambo la kwa Weja Site 2,28-Jul-21,"Pond, temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,June,Misungwi ,Igokelo,Nange ,Itende,Kwa Mwela site 2,Kisima cha Mwela,Kisima cha Mwela,16-Jun-21,"pond, permanent",16,27.6,Normal,Dry,9:30,9:45,Bulinus,None,Bulinus,63,0
+2021,June,Misungwi ,Igokelo,Nange ,Sanjo,Kwa Mwamagubo,Lambio la Mwamagubo,Lambio la Mwamagubo,16-Jun-21,"Pond, Temporary",45.2,67.6,Normal,Dry,10:40,10:55,Bulinus,"Cow, Sheep, Feces, Dogs and Goats",Bulinus,21,0
+2021,June,Misungwi ,Igokelo,Nange ,Mbashi,Lambo la TASAF,Lambio la TASAF,Lambio la TASAF,16-Jun-21,"Dam, Permanent",89.3,161.7,Normal,Dry,11:45,12:00,None,"Cow, Sheep, Feces, Dogs and Goats",None,0,0
+2021,June,Misungwi ,Igokelo,Nange ,Sanjo,Kwa Mtemi,Lambo la Mtemi,Lambo la Mtemi,16-Jun-21,"Pond, Temporary",51,92.2,Normal,Dry,11:15,11:30,"Bulinus,Lymneae","Cow, sheep, feces, Dogs and Goats",Bulinus,13,0
+2021,July,Misungwi ,Shilalo,Ng'obo,Kisesa,Kwa Longo,Kisima cha Longo,Kisima cha Longo,1-Jul-21,"Pond,Temporary",19.3,11.3,Low,Dry,14:35,14:50,Bulinus,Feces,Bulinus,61,1
+2021,July,Misungwi ,Shilalo,Ng'obo,Ng'obo,Kwa Peter masele,Kisima cha Peter masele,Kisima cha Peter Masele,1-Jul-21,"Pond,Permanent",34,57.6,Normal,Dry,12:15,12:30,Bulinus and Pila,"Cow, Sheep,Feces, Goats.",Bulinus,99,4
+2021,July,Misungwi ,Shilalo,Ng'obo,Ng'obo,Kwa Budula,Lambo la Budula,Lambo la Budula,1-Jul-21,"Pond,Permanent",8,14,Normal,Dry,12:50,13:05,Bulinus,"Cow, Sheep,Feces, Goats.",Bulinus,3,0
+2021,July,Misungwi ,Shilalo,Ng'obo,Mwanzuki,Kwa dome,Lambo la Dome,Lambo la Dome,1-Jul-21,"Pond,Permanent",53.4,76.1,Normal,Dry,14:09,14:24,"Bulinus,Lymneae.",Feces,Bulinus,26,0
+2021,July,Misungwi ,Shilalo,Ng'obo,Kisesa,Kwa jumba Madaha,Lambo la jumba Madaha,Lambo la Jumba Madaha,1-Jul-21,"Pond,Permanent",63.4,98.4,Normal,Dry,14:55,15:10,None,Feces,None,0,0
+2021,July,Misungwi ,Shilalo,Ng'obo,Mwanzuki,Kwa mabula,Lambo la mabula,Lambo la Mabula,1-Jul-21,"Pond,Permanent",75,89,Normal,Dry,13:10,13:25,Bulinus,Feces & Cow,Bulinus,33,2
+2021,July,Misungwi ,Shilalo,Ng'obo,Mwanzuki,Kwa Ng'wanamaguha,Lambo la Ng'wanamaguha,Lambo la Ng'wanamaguha,1-Jul-21,"Pond,Permanent",69,91,Normal,Dry,13:50,14:05,None,"Cow, Sheep,Feces, Goats.",None,0,0
+2021,July,Misungwi ,Shilalo,Ng'obo,Kisesa,Kwa Njongo maeke,Lambo la Njongo maeka,Lambo la Njongo Maeka,1-Jul-21,"Pond,Permanent",59,88,Normal,Dry,15:20,15:35,"Bulinus,Lymneae.","Cow, Feces, Goats.",Bulinus,8,0
+2021,June,Misungwi ,Igokelo,Ng'ombe,Nyangaka,Kwa Lutonja,Kisima cha Lutoja,Kisima cha Lutoja,9-Jun-21,"Pond, Permanent",17.2,20.3,Normal,Dry,13:45,14:00,"Lymneae, Pila",None,None,0,0
+2021,June,Misungwi ,Igokelo,Ng'ombe,Nyangaka,Kwa Mtoni,Lambo kwa Mtoni,Lambo kwa Mtoni,9-Jun-21,"Pond, temporary",29.1,56.1,Normal,Dry,14:06,14:21,"Bulinus, Pila, Lymneae","Cow, Sheep,Dogs, Feces. Goats",Bulinus,4,0
+2021,June,Misungwi ,Igokelo,Ng'ombe,Nyamatala,Lambo la Ng'wamagobeko,Lambo la Ng'wamagobeko,Lambo la Ng'wamagobeko,9-Jun-21,"Pond, Permanent",52.3,79.7,Normal,Dry,15:10,15:25,None,"Cow, Sheep,Dogs, Feces. Goats",None,0,0
+2021,June,Misungwi ,Igokelo,Ng'ombe,Ng'ombe,Lambo la Ng'wanjemu,Lambo la Ng'wanjemu,Lambo la Ng'wanjemu,9-Jun-21,"Pond, Permanent",34.3,63.3,Normal,Dry,14:38,14:53,"Bulinus, Pila, Lymneae","Cow, Sheep,Dogs, Feces. Goats",Bulinus,11,0
+2021,June,Misungwi ,Igokelo,Ng'ombe,Nyangaka,Kwa Ng'wangili,Lambola kwa Ng'wangili,Lambola kwa Ng'wangili,9-Jun-21,"Pond, temporary",44.3,87,Normal,Dry,13:21,13:36,"Bulinus, Lymneae","Cow, Fece, Goat.",Bulinus,3,0
+2021,July,Busega,Mkula,Ng'wanhale,Madukani,Kisima cha Samweli Mahangila ,Kisima cha Samweli Mahangila ,Kisima cha Samweli Mahangila,20-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,July,Busega,Mkula,Ng'wanhale,Mwabasabi,Lambo la Mwabasabi,Lambo la Mwabasabi,Lambo la Mwabasabi,20-Jul-21,"Pond,Temporary",11,12.3,Low,Dry,14:20,14:35,Bulinus,Feces,Bulinus,21,8
+2021,July,Busega,Ngasamo,Ngasamo,Isadukilo,Kisima Cha Sita Gidion,Kisima Cha Sita Gidion,Kisima cha Sita Gidion,20-Jul-21,"Pond,Permanent",_,_,Dry,Dry,_,None,None,None,None,0,0
+2021,July,Busega,Ngasamo,Ngasamo,Isadukilo,Kisima cha Tito,Kisima cha Tito,Kisima cha Tito,20-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Ngasamo,Ngasamo,Isadukilo,Kisima_Lambo la Shilikale,Kisima_Lambo la Shilikale,Kisima/Lambo la Shilikale,20-Jul-21,"Pond,Permanent",9.6,16,Normal,Dry,17:05,17:20,None,None,None,0,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Bujingwa,Kwa Mhana,Kisima cha Garani,Kisima cha Garani,15-Jun-21,"Pond, Temporary",31.1,58.5,Normal,Dry,13:27,13:42,"Bulinus, Pila ",None,Bulinus,1,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Ng'wanzela,Kwa suluba,Kisima cha Madaha,Kisima cha Madaha,15-Jun-21,"Pond, Temporary",8.3,14.3,Normal,Dry,14:15,14:30,"Bulinus, Pila.",None,Bulinus,100,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Ngudama,Kwa Ng'ogashinge,Kisima cha Mbiti,Kisima cha Mbiti,15-Jun-21,"Pond, Temporary",12,19,Normal,Dry,13:58,14:13,"Bulinus, Pila.",None,Bulinus,59,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Ibelambasa,Kwa Lunyilija Nzila,Kisima cha Ng'wamhabi,Kisima cha Ng'wamhabi,15-Jun-21,"Pond, Temporary",37.8,68.8,Normal,Dry,15:40,15:55,Biomphalia,"Cow, feces",None,0,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Bujingwa,Kwa Felician Shingashinga,Kisima cha Ng'wandomele Kaswahili,Kisima cha Ng'wandomele Kaswahili,15-Jun-21,"Pond, Temporary",28.5,49.1,Normal,Dry,11:20,11:35,"Bulinus,Pila.",Feces,Bulinus,97,1
+2021,June,Misungwi ,Bulemeji,Ngudama,Bujingwa,Kwa Mhana Kitogwa,Kisima cha Nkando,Kisima cha Nkando,15-Jun-21,"Pond, Temporary",10.8,16.8,Normal,Dry,12:35,12:50,Bulinus,None,Bulinus,12,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Bujingwa,Kwa Mhana,Lambo la Mhana,Lambo la Mhana,15-Jun-21,"Pond, Temporary",25,36.2,Normal,Dry,13:05,13:20,"Bulinus, Pila ","Feces, Cow, Goat",Bulinus,50,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Ibelambasa,Kwa Seya Mlele,Lambo la Ng'wamhabi,Lambo la Ng'wamhabi,15-Jun-21,"Pond, Temporary",16.9,32.6,Normal,Dry,12:00,12:15,"Bulinus, Pila.",Feces,Bulinus,3,0
+2021,June,Misungwi ,Bulemeji,Ngudama,Ibelambasa,Kwa Felician Shingashinga,Lambo la Ng'wandomele Kaswahili,Lambo la Ng'wandomele Kaswahili,15-Jun-21,"Pond, Temporary",12.1,22.5,Normal,Dry,11:40,11:55,"Bulinus, Pila",Feces,Bulinus,87,0
+2021,June,Misungwi ,Mondo,Ntulya,Bugolo,Kwa Nyanda Yanyechecha,Kisima cha Nyanda yanyecha,Kisima cha Nyanda Yanyecha,24-Jun-21,"Pond,Permanent",8.5,15.5,Normal,Dry,13:47,14:02,None,None,None,0,0
+2021,June,Misungwi ,Mondo,Ntulya,Bugolo,Kwa Elias Katwiga,Lambo la idubya,Lambo la Idubya,24-Jun-21,"Pond,Temporary",35,65,Normal,Dry,12:18,12:33,Bulinus,"Sheep,Cow,Goat and feces",Bulinus,15,0
+2021,June,Misungwi ,Mondo,Ntulya,Bugolo,Kwa Mzee Kasiibu Mpuya,Lambo la Kwa Mzee Kasibu Mpuya,Lambo la Mzee Kasibu Mpuya,24-Jun-21,"Pond,Permanent",26,45,Normal,Dry,12:40,12:50,None, Feces.,None,0,0
+2021,June,Misungwi ,Mondo,Ntulya,Ipandwa,Kwa  Lyaja Mbuzunga,Lambo la Lyaja Mbuzunga,Lambo la Lyaja Mbuzunga,24-Jun-21,"Pond,Permanent",26.4,36.1,Normal,Dry,11:30,11:45,Bulinus,"Cow, Feces and goat",Bulinus,56,0
+2021,June,Misungwi ,Mondo,Ntulya,Ipandwa,Kwa Kawenga Kamuli,Lambo la Nkola,Lambo la Nkola,24-Jun-21,"Pond,Permanent",32.7,54.9,Normal,Dry,10:55,11:10,Bulinus ,"Sheep,Cow,Goat and feces",Bulinus,41,0
+2021,June,Misungwi ,Mondo,Ntulya,Bugolo,Kwa  Paulo Nghong'o,Lambo la Paulo Nghong'o,Lambo la Paulo Nghong'o,24-Jun-21,"Pond,Permanent",12.5,21.5,Normal,Dry,13:05,13:20,Bulinus,Feces,Bulinus,102,0
+2021,June,Misungwi ,Mondo,Ntulya,Ntulya,Bustanini kwa Kefa,Mto Chanzo,Mto Chanzo,24-Jun-21,"River,Permanent",_,__,Normal,Dry,10:00,10:15,Bulinus,"Cow, Sheep, Goats.",Bulinus,1,0
+2021,July,Busega,Nyaluhande,Nyaluhande,Nyabihale,Kwa Mwana Mafayo,Kisima cha Mwamalongo,Kisima cha Mwamalongo,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Nyaluhande,Nyaluhande,Mwanoni,Kwa Fimbo Madirisha,Kisima Ng'walenga,Kisima Ng'walenga,17-Jul-21,"Pond,Permanent",14.8,22.6,Low,Dry,10:45,11:00,Bulinus,None,Bulinus,8,0
+2021,July,Busega,Nyaluhande,Nyaluhande,Nyabihale,Kwa Mwana Mafayo,Lambo la Mwamalongo,Lambo la Mwamalongo,16-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,feces,None,0,0
+2021,July,Busega,Nyaluhande,Nyaluhande,Mwanoni,Kwa Magua Malashi,Lambo la Ng'wanoni,Lambo la Ng'wanoni,17-Jul-21,"Pond, Temporary",25,45,Low,Dry,10:15,10:30,None,"Cow, Feces.",None,0,0
+2021,July,Busega,Nyaluhande,Nyaluhande,Nyasubi,Shuleni,Lambo la Shule,Lambo la Shule,17-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,June,Sengerema,Busisi,Nyamasale,Mabondeni,Kwa Lubinza Budelele,Kisima cha Lubinza Budelele,Kisima cha Lubinza Budelele,29-Jun-21,"Pond,Permanent",7,12,Normal,Dry,15:55,16:10,Bulinus,Feces,Bulinus,7,0
+2021,June,Sengerema,Busisi,Nyamasale,Itoba,Kwa Malole Budelele,Kisima cha Malole Budelel site 1,Kisima cha Malole Budelel Site 1,29-Jun-21,"Pond,Permanet",12,20.8,Normal,Dry,16:30,16:45,None,Feces,None,0,0
+2021,June,Sengerema,Busisi,Nyamasale,Dodoma,Kwa Ngologolo,Kisima kwa Ngologolo,Kisima kwa Ngologolo,29-Jun-21,"Pond, Permanent",8,13,Normal,Dry,15:30,15:45,Bulinus,Feces,Bulinus,74,0
+2021,June,Sengerema,Busisi,Nyamasale,Itoba,Kwa Malole Budelele,Kisima_lambo la Malole Budelel Site 2,Kisima/Lambo la Malole Budelel Site 2,29-Jun-21,"Pond,Temporary",35.5,53.5,Normal,Dry,16:50,17:05,None,Cow and feces,None,0,0
+2021,July,Busega,Shigala ,Nyamatembe,sakabai,kisima cha sima mayala,kisima cha sima mayala,Kisima cha Sima Mayala,27-Jul-21,"Pond,Temporary",15.5,26.5,Normal,Dry,12:52,13:07,Bulinus,None,Bulinus,3,0
+2021,July,Busega,Shigala ,Nyamatembe,Inora magembe,lambo la apolinari,lambo la apolinari,Lambo la Apolinari,27-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Shigala ,Nyamatembe,Nyamigamba,lambo la john ndugwa,lambo la john ndugwa,Lambo la John Ndugwa,27-Jul-21,"Pond,Temporary",15,20.8,Low,Dry,13:20,13:35,None,Feces,None,0,0
+2021,July,Busega,Shigala ,Nyamatembe,sakabai,lambo la nzagamba,lambo la nzagamba,Lambo la Nzagamba,27-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,June,Misungwi ,Ukirigulu,Nyamikoma,Nyamikoma A,Kwa Wishi,Kisima cha Wishi,Kisima cha Wishi,28-Jun-21,"Pond,Temporary",20.3,28.3,Normal,Dry,16:36,16:51,"Bulinus' Lymeae, Pila",None,Bulinus,23,0
+2021,June,Misungwi ,Ukirigulu,Nyamikoma,Nyamanji,Kwa Hilindi,Kisima cja Hilindi,Kisima Cha Hilindi,28-Jun-21,"Pond,Permanent",13.1,23.1,Normal,Dry,17:00,17:15,"Bulinus, Pila.",None,Bulinus,21,0
+2021,July,Sengerema,Kasungamile,Nyamililo,Nyachanda,Kwa igogo,Kisima cha Igogo,Kisima cha Igogo,6-Jul-21,"Pond,permanent",9.4,14.8,Normal,Dry,13:40,13:55,"Lymnaeae, Pila",Feces,None,0,0
+2021,July,Sengerema,Kasungamile,Nyamililo,Bulunga A,Dotto Philipo,Kisima cha kwa Buta,Kisima cha kwa Buta,6-Jul-21,"Pond,Temporary",6.6,11.9,Normal,Dry,13:00,13:15,"Bulinus,  Pila",None,Bulinus,45,0
+2021,July,Sengerema,Kasungamile,Nyamililo,Kati,kwa Njimba,Lambo la Kwa Njimba,Lambo la kwa Njimba,6-Jul-21,"Pond,permanent",11.1,17.1,Normal,Dry,14:05,14:20,"Lymnaeae, Pila",None,None,0,0
+2021,July,Sengerema,Kasungamile,Nyamililo,Bulunga A,Temagila Myangala,Lambo_mtoni kwa Msonga,Lambo/Mtoni kwa Msonga,6-Jul-21,"Pond,Temporary",23.3,41.6,Normal,Dry,12:20,12:35,"Bulinus, Lymnaeae",Feces,Bulinus,2,0
+2021,July,Magu,Sukuma,Nyang'hanga,Ng'wamalangahe,Kwa John Kayoka,Kisima cha John Kayoka,Kisima cha John Kayoka,15-Jul-21,"Pond,Temporary",8.9,12.7,Low,Dry,12:27,12:42,Bulinus,None,Bulinus,9,0
+2021,July,Magu,Sukuma,Nyang'hanga,Nyasho,Kwa yulisi mbandi,Kisima cha Ng'wambata,Kisima cha Ng'wambata,15-Jul-21,"Pond,Temporary",16.6,24.6,Normal,Dry,13:26,13:41,Bulinus,None,Bulinus,111,0
+2021,July,Magu,Sukuma,Nyang'hanga,Nyang'hanga B,Kwa mchanga mabawa,Kisima cha Ng'wamchanga mabawa,Kisima cha Ng'wamchanga Mabawa,15-Jul-21,"Pond,Temporary",14.4,23,Low,Dry,12:48,13:03,Bulinus,Cow,Bulinus,29,0
+2021,July,Magu,Sukuma,Nyang'hanga,Nyang'hanga A,kwa mgingili,Kisima cha Ng'wamgingili,Kisima cha Ng'wamgingili,15-Jul-21,"Pond,Temporary",17.4,25.2,Normal,Dry,12:07,12:22,None,Feces,None,0,0
+2021,July,Magu,Sukuma,Nyang'hanga,Lwelimo,Kwa Ngunja,Kisima cha Ng'wangunja,Kisima cha Ng'wangunja,15-Jul-21,"Pond,Temporary",32.9,59.8,Normal,Dry,11:30,11:45,Bulinus,None,Bulinus,50,0
+2021,July,Magu,Sukuma,Nyang'hanga,Selya,Kwa Nzali Lusakamila,Kisima cha Ngado,Kisima cha Ngado,15-Jul-21,"Pond,permanent",20.5,39.1,Normal,Dry,10:33,10:48,Bulinus,Feces,Bulinus,85,0
+2021,July,Magu,Sukuma,Nyang'hanga,Ng'wabayanda,Kwa shimula masalu,Kisima cha Shimula Masalu,Kisima cha Shimula Masalu,15-Jul-21,"Pond,Temporary",0.8,1.2,Normal,Dry,11:09,11:24,None,Feces,None,0,0
+2021,July,Magu,Sukuma,Nyang'hanga,Ng'wamakanza,Kwa Mayaka Kamanija,Lambo la Mayala Kamanija,Lambo la Mayala Kamanija,15-Jul-21,"Pond,Temporary",1.4,1.7,Low,Dry,10:13,10:28,None,None,None,0,0
+2021,July,Magu,Sukuma,Nyang'hanga,Galamugi,Kwa Bamba,Lambo la Ng'wabamba,Lambo la Ng'wabamba,15-Jul-21,"Pond,Temporary",1.7,2.1,Low,Dry,9:55,10:10,None,None,None,0,0
+2021,July,Magu,Sukuma,Nyang'hanga,Nyang'hanga A,kwa Ng'wamgingili,Lambo la Ng'wamgingili,Lambo la Ng'wamgingili,15-Jul-21,"Pond,Temporary",22.4,38.4,Normal,Dry,11:50,12:05,None,"Cow, Feces and Goat.",None,0,0
+2021,July,Magu,Sukuma,Nyang'hanga,Selya,Kwa Nzali Lusakamila,Lambo la Ngado,Lambo la Ngado,15-Jul-21,"Pond,Temporary",25.4,39.8,Normal,Dry,10:50,11:05,Bulinus,Feces and dogs,Bulinus,8,0
+2021,July,Magu,Sukuma,Nyang'hanga,Nyanguganwa,Kwa Nyasho,Lambo la Nyasho,Lambo la Nyasho,15-Jul-21,"Pond,Temporary",30.6,50.6,Normal,Dry,13:07,13:22,Bulinus,Feces,Bulinus,2,0
+2021,July,Magu,Sukuma,Nyang'hanga,Nyasho,Kwa yulisi mbandi,Lambo la yulisi mbandi,Lambo la Yulisi Mbandi,15-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,June,Misungwi,Ukirigulu,Nyang'holongo,Majengo,Kwa Fumu,Kwa Fumu,Kwa Fumu,7-Jun-21,"Pond, Permanent",13.6,23.1,Normal,Dry,10:59,11:14,"Bulinus,Lymneae",None,Bulinus,91,6
+2021,June,Misungwi,Ukirigulu,Nyang'holongo,Ukirigulu A,Mabingobigo Site 1,Mabingobigo Site 1,Mabingobingo Site 1,7-Jun-21,"Pond, Permanent",12,22,Normal,Dry,10:11,10:26,"Bulinus,Pila.",None,Bulinus,4,0
+2021,June,Misungwi,Ukirigulu,Nyang'holongo,Ukirigulu A,Mabingobigo Site 2,Mabingobigo Site 2,Mabingobingo Site 2,7-Jun-21,"Pond, Temporary",7,12.4,Normal,Dry,9:53,10:08,"Bulinus,Pila.",None,Bulinus,36,0
+2021,June,Misungwi,Ukirigulu,Nyang'holongo,Madelelya,Madelelya Site 3,Mabingobigo Site 3,Madelelya Site 3,7-Jun-21,"Pond, Permanent",10.7,17.5,Normal,Dry,12:03,12:18,"Bulinus,Lymneae,Pila.",Feces,Bulinus,99,0
+2021,June,Misungwi,Ukirigulu,Nyang'holongo,Madelelya,Mmadelelya Site 4,Mabingobigo Site 4,Madelelya Site 4,7-Jun-21,"Pond, Permanent",8.4,13.4,Normal,Dry,12:26,12:41,"Bulinus,Lymneae",None,Bulinus,125,0
+2021,June,Misungwi,Ukirigulu,Nyang'holongo,Madelelya,Madelelya Site 1,Madelelya 1,Madelelya Site 1,7-Jun-21,"Pond, Permanent",25.24,49.24,Normal,Dry,11:32,11:47,Pila,"Cow, Feces.",None,0,0
+2021,June,Misungwi,Ukirigulu,Nyang'holongo,Madelelya,Madelelya Site 2,Madelelya Site 2,Madelelya Site 2,7-Jun-21,"Pond, Permanent",12.4,22.6,Normal,Dry,10:33,11:59,"Bulinus,Pila.","Cow, Feces.",Bulinus,64,0
+2021,May,Misungwi,Ukirigulu,Nyang'holongo,Ukirigulu B,Nyamuge,Nyamuge,Nyamuge,7-Jun-21,"Pond,Permanent",180,256,Normal,Dry,9:30,9:45,Lymneae,Feces,None,0,0
+2021,July,Busega,Igalukilo  ,Nyangili,Nyangili,Shamba la  Juma Madilisha,Kisima cha Kwa Juma Madilisha,Kisima cha kwa Juma Madilisha,22-Jul-21,"Pond,Permanent",30,51.5,Normal,Dry,13:32,13:47,Bulinus,None,Bulinus,3,0
+2021,July,Busega,Igalukilo  ,Nyangili,Sisa,Shamba la koya Matosela,Kisima cha kwa Koya,Kisima cha kwa Koya,22-Jul-21,"Pond,Temporary",10.8,21.5,Normal,Dry,12:28,12:43,Bulinus,None,Bulinus,105,0
+2021,July,Busega,Igalukilo  ,Nyangili,Sisa,Shambo la Lukanula,Kisima cha kwa Lukanula,Kisima cha kwa Lukanula,22-Jul-21,"Pond,Temporary",8.3,14.4,Normal,Dry,12:47,13:02,Bulinus,Feces,Bulinus,5,0
+2021,July,Busega,Igalukilo  ,Nyangili,Nyangili,Shamba la juma Madilisha,Lambo la kwa Juma Madilisha Site 2,Lambo la kwa Juma Madilisha Site 2,22-Jul-21,"Pond,Temporary",12.3,20.6,Low,Dry,15:15,13:30,"Biomphalaria, Bulinus",Feces,Bulinus,73,0
+2021,July,Busega,Igalukilo  ,Nyangili,Sisa,Shamba la Kulwa Mashini,Mtoni kwa Kulwa Mashini,Mtoni kwa Kulwa Mashini,22-Jul-21,"Pond,Permanent",34.9,40.2,Normal,Dry,11:58,12:13,Bulinus,Feces,Bulinus,74,0
+2021,July,Busega,Malili,Nyangoko,Nyangoko A,Kisima cha sengo,Kisima cha sengo,Kisima cha Sengo,26-Jul-21,"Pond, Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Malili,Nyangoko,Nyangoko C,Lambo la beyumigi,Lambo la beyumigi,Lambo la Beyamugi,26-Jul-21,"Pond, Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Malili,Nyangoko,Nyangoko A,Lambo la chem flora,Lambo la chem flora,Lambo la Chem Flora,26-Jul-21,"Pond, Temporary",_,_,Dry,Dry,_,_,None,None,None,0,0
+2021,July,Busega,Malili,Nyangoko,Nyangoko C,Lambo la mnyamimigi,Lambo la mnyamimigi,Lambo la Mnyamimigi,26-Jul-21,"Pond, Temporary",_,_,Dry,Dry,_,_,None,feces,None,0,0
+2021,July,Sengerema,Kasungamile,Nyantakubwa,Nyantakubwa,Kwa Bufalo,Kisima cha Bufalo,Kisima cha Bufalo,6-Jul-21,"Pond,permanent",6.5,10.5,Normal,Dry,15:15,15:30,"Bulinus,  Pila",Feces,Bulinus,11,0
+2021,July,Sengerema,Kasungamile,Nyantakubwa,Chamigumo,Kwa Milembe Busunzule,Kisima cha Milembe Busunzule,Kisima cha Milembe Busunzule,6-Jul-21,"Pond,permanent",7.5,9.5,Normal,Dry,17:00,17:15,"Bulinus,  Pila",None,Bulinus,1,0
+2021,July,Sengerema,Kasungamile,Nyantakubwa,Chamigumo,Kwa MundaMshimu,Kisima cha Mundamushimu,Kisima cha Mundamshimu,6-Jul-21,"Pond,permanent",15,27,Normal,Dry,16:30,16:45,Pila,None,None,0,0
+2021,July,Sengerema,Kasungamile,Nyantakubwa,Buchela,Kwa Ng'ong'o,Kisima cha Ng'ong'o,Kisima cha Ng'ong'o,6-Jul-21,"Pond,permanent",9,15,Normal,Dry,16:00,16:15,"Bulinus,  Pila","Cow, Feces, Goats.",Bulinus,5,0
+2021,July,Sengerema,Kasungamile,Nyantakubwa,Nyantakubwa,Kwa Ngomboji,Kisima cha Ngomboji,Kisima cha Ngomboji,6-Jul-21,"Pond,permanent",9.3,15.3,Normal,Dry,15:40,15:55,None,None,None,0,0
+2021,July,Magu,Buhumbi,Nyashoshi,Nyashoshi,Kwa Mwashi Mahuyembe,Kasimu cha Idete,Kasimu cha Idete,14-Jul-21,"Pond,permanent",5.6,8.3,Low,Dry,10:55,11:10,None,None,None,0,0
+2021,July,Magu,Buhumbi,Nyashoshi,Nyashoshi,Kwa Mamaleba,Kisima cha Mwamaleba,Kisima cha Mwamaleba,14-Jul-21,"Pond,Temporary",8,12.6,Low,Dry,12:27,12:42,Bulinus,Feces,Bulinus,6,0
+2021,July,Magu,Buhumbi,Nyashoshi,Mabatini,Shule,Kisima cha Ng'wamanungu,Kisima cha Ng'wamanungu,24-Jun-21,"Pond,Temporary",13.5,17.9,Low,Dry,12:05,12:20,None,None,None,0,0
+2021,July,Magu,Buhumbi,Nyashoshi,Nyashoshi,Lambo la Chandaluba,Kwa Mayala Chandaluba,Kwa Mayala Chandaluba,14-Jul-21,"Pond,Temporary",15,28.8,Low,Dry,10:34,10:49,None,Feces,None,0,0
+2021,July,Magu,Buhumbi,Nyashoshi,Mabatini,Kwa maina Nkola,Lambo la Nkola,Lambo la Nkola,24-Jun-21,"Pond,Temporary",6.4,10.8,Low,Dry,11:47,12:02,None,Feces,None,0,0
+2021,July,Magu,Buhumbi,Nyashoshi,Nyashoshi,Kwa suzana Jumla,Lambo la Nkoma ,Lambo la Nkoma ,14-Jul-21,"Pond,permanent",32,62,Normal,Dry,11:10,11:25,None,Dogs,None,0,0
+2021,July,Magu,Buhumbi,Nyashoshi,Nyashoshi,Kwa Shoka Bukelebe,Lambo la shoka Bukelebe,Lambo la Shoka Bukelebe,14-Jul-21,"Pond,Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,June,Misungwi ,Misungwi ,Old Misungwi,Mitindo A,Kwa Ndege kasaso,Kisima cha kwa Ndege Kadaso,Kisima cha kwa Ndege Kadaso,23-Jun-21,"Pond,Temporary",11.6,19.6,Normal,Dry,12:49,13:05,"Bulinus, Lymneae",None,Bulinus,14,0
+2021,June,Misungwi ,Misungwi ,Old Misungwi,Mitindo A,Shamba la Bushaba Karunde,Kisima cha Makwega,Kisima cha Makwega,23-Jun-21,"Pond,Temporary",12,17,Normal,Dry,12:25,12:40,Bulinus,None,Bulinus,8,0
+2021,June,Misungwi ,Misungwi ,Old Misungwi,Mitindo A,Kwa Kasanga Magola,Kisima cha Mwamaganda,Kisima cha Mwamaganda,23-Jun-21,"Pond,Temporary",11,19,Normal,Dry,13:12,13:27,Bulinus,Feces,Bulinus,71,0
+2021,June,Misungwi ,Misungwi ,Old Misungwi,Mitindo B,Shamba la Agness Lutoma,Kisima cha Ng'wamarashi,Kisima cha Ng'wamarashi,23-Jun-21,"Pond,Temporary",14.2,29.2,Normal,Dry,13:50,14:05,"Bulinus, Lymneae",None,Bulinus,3,0
+2021,July,Magu,Mwamabanza,Salong'we,Salongwe A,Kwa makelanhyiwa,Kisima cha Makelanhyiwa,Kisima cha Makelanhyiwa,8-Jul-21,"Pond,Temporary",5.5,14.8,Normal,Dry,9:30,9:45,Bulinus,None,Bulinus,35,0
+2021,July,Magu,Mwamabanza,Salong'we,Mwaneha,Kwa Selemani Subi,Kisima cha Njundu,Kisima cha Njundu,8-Jul-21,"Pond,Temporary",6.8,13.3,Normal,Dry,10:10,10:25,Bulinus,Feces,Bulinus,6,0
+2021,July,Magu,Mwamabanza,Salong'we,Salongwe A,Kwa  Maja Manyanza,Lambo la kwa Maja,Lambo la kwa Maja,8-Jul-21,"Pond,Temporary",2.5,4.1,Low,Dry,9:50,10:05,Bulinus,Feces,Bulinus,2,0
+2021,July,Magu,Mwamabanza,Salong'we,Mwaneha,Kwa Manoni Sherembi,Lambo la Njimya,Lambo la Njimya,8-Jul-21,"Pond,permanent",38.8,60.2,Normal,Dry,10:37,10:52,Bulinus,Cow and goats,Bulinus,1,0
+2021,July,Busega,Shigala ,Shigala,Nege,Kwa makeja,Kisima Cha Kwa Makeja,Kisima cha kwa Makeje,22-Jul-21,"Pond,Temporary",3.7,6.7,Low,Dry,11:00,11:15,None,None,None,0,0
+2021,July,Busega,Shigala,Shigala,Nege,Ng'wamashoka,kisima cha ng'wamashoka,Kisima cha Ng'wamashoka,22-Jul-21,"pond,Temporary",_,_,Dry,Dry,_,_,None,"Cow,Feces.",None,0,0
+2021,July,Busega,Shigala ,Shigala,Mwabasabi,Kwa Ndonya,Lambo la Kwa Ndonya,Lambo la kwa Ndonya,22-Jul-21,"Pond, Temporary",_,_,Dry,Dry,_,_,None,Feces,None,0,0
+2021,June,Misungwi ,Shilalo,Shilalo,Luhala,Kwa Buzengo,Kisima cha Buzengo,Kisima cha Buzengo,30-Jun-21,"Pond,Temporary",32,50,Low,Dry,12:20,12:35,Bulinus,"Cow, Sheep,Feces, Goats.",Bulinus,3,0
+2021,June,Misungwi ,Shilalo,Shilalo,Shilaloshuleni,Kwa Ng'wanashinyama,Kisima cha Ng'wanashinyama,Kisima cha Ng'wanashinyama,30-Jun-21,"Pond,Temporary",1.5,3,Low,Dry,13:30,13:45,None,None,None,0,0
+2021,June,Misungwi ,Shilalo,Shilalo,Matunge,Kwa nzengo matunge,Kisima cha Nzengo matunge,Kisima cha Nzengo Matunge,30-Jun-21,"Pond,Temporary",39,69.7,Low,Dry,10:50,11:05,Bulinus,"Cow, Sheep,Feces, Goats.",Bulinus,6,0
+2021,June,Misungwi ,Shilalo,Shilalo,Shilaloshuleni,Shilaloshanguku,Kisima cha Nzengo shilaloshanguku,Kisima cha Nzengo Shilaloshanguku,30-Jun-21,"Pond,Temporary",39,65,Normal,Dry,11:50,12:05,Bulinus and Pila,None,Bulinus,48,0
+2021,June,Misungwi ,Shilalo,Shilalo,Kisunge,Kwa Kisunnge,Lambo la Kisunge,Lambo la Kisunge,30-Jun-21,"Pond,Temporary",36.1,60.1,Low,Dry,13:10,13:25,Bulinus,Feces,Bulinus,108,0
+2021,June,Misungwi ,Shilalo,Shilalo,Matunge,Kwa nzengo matunge,Lambo la Nzengo matunge,Lambo la Nzengo Matunge,30-Jun-21,"Pond,Temporary",40,78,Low,Dry,10:30,10:45,Bulinus,"Cow, Sheep,Feces, Goats.",Bulinus,26,1
+2021,June,Misungwi ,Shilalo,Shilalo,Shilaloshuleni,Shilaloshanguku,Lambo la Nzengo shilaloshanguku,Lambo la Nzengo Shilaloshanguku,30-Jun-21,"Pond,Temporary",9.4,13.4,Low,Dry,11:32,11:47,Bulinus,"Cow, Sheep,Feces, Goats.",Bulinus,12,0
+2021,June,Misungwi ,Shilalo,Shilalo,Matunge,Kwa manegese,Lambo/Kisima cha Manegese,Lambo/Kisima cha Manegese,30-Jun-21,"Pond,Permanent",4.7,9.1,Low,Dry,11:08,11:23,None,None,None,0,0
+2021,June,Misungwi ,Shilalo,Shilalo,Luhala,Kwa sekulo,Lambo/Kisima cha Sekulo,Lambo/Kisima cha Sekulo,30-Jun-21,"Pond,Temporary",72,111.3,Normal,Dry,12:40,12:55,Bulinus,"Cow, Sheep,Feces, Goats.",Bulinus,4,0
+2021,July,Magu,Shishani,Shishani,Kilosha,Kisima cha Dundo,Kisima cha Dundo,Kisima cha Dundo,16-Jul-21,"Pond,Temporary",27.9,32.8,Normal,Dry,9:45,10:00,Bulinus,Feces,Bulinus,52,0
+2021,July,Magu,Shishani,Shishani,Nyashimba,Mwanzuli,Kisima/lambo la Mwanzuli,Kisima/Lambo la Mwanzuli,16-Jul-21,"Pond,Temporary",28,52.7,Normal,Dry,11:20,11:35,None,Feces,None,0,0
+2021,July,Magu,Shishani,Shishani,Kilosha,Lambo la Dundo,Lambo la Dundo,Lambo la Dundo,16-Jul-21,"Pond,Permanent",46.8,76.8,Normal,Dry,10:20,10:35,Bulinus,"Cow,Feces and Goat.",Bulinus,1,0
+2021,July,Magu,Shishani,Shishani,Nyandekwa,Lambo la Nyandekwa,Lambo la Nyandekwa site 1,Lambo la Nyandekwa Site 1,16-Jul-21,"Pond,Permanent",47,89,Normal,Dry,10:42,10:57,None,"Cow,Sheep,Feces, Dogs and Goat.",None,0,0
+2021,June,Misungwi ,Igokelo,Wanzamiso,Wanzamiso,Kisima cha kwa Isalu,Kisima cha kwa Isalu,Kisima cha kwa Isalu,10-Jun-21,"Pond, Permanent",12.8,24.4,Normal,Dry,12:53,13:08,"Bulinus, Pila, Lymneae",feces,Bulinus,15,0
+2021,July,Magu,Nyigongo,Yichobela,kabazu,kwa Bohe,kisima cha Bohe Mke,Kisima cha Bohe Mke,12-Jul-21,"Pond,permanent",15.5,28.2,Normal,Dry,16:25,16:40,Biomphalaria,None,None,0,0
+2021,July,Magu,Nyigongo,Yichobela,Ng'wamande,Kisima cha Ng'wagalani,Kisima cha Ng'wagalani,Kisima cha Ng'wagalani,12-Jul-21,"Pond,permanent",6.4,11.1,Normal,Dry,15:18,15:33,"Bulinus,Pila.",None,Bulinus,42,0
+2021,July,Magu,Nyigongo,Yichobela,Ng'wabasabi,Kisima cha Ntubi,Kisima cha Ntubi,Kisima cha Ntubi,12-Jul-21,"Pond,permanent",13.4,24.2,Normal,Dry,15:40,15:55,None,Goat,None,0,0
+2021,July,Magu,Nyigongo,Yichobela,Ng'wabasabi,Kisima cha Ntubi site 2,Kisima cha Ntubi site 2,Kisima cha Ntubi Site 2,12-Jul-21,"Pond,Temporary",6.4,10.4,Normal,Dry,16:00,16:15,"Bulinus,Pila.",None,Bulinus,33,0
+2021,July,Magu,Nyigongo,Yichobela,Ihushi A,Kisima cha Ng'wabukwimba,Kwa Ng'wabukwimba,Kwa Ng'wabukwimba,12-Jul-21,"Pond,permanent",8.7,16.5,Normal,Dry,14:25,14:40,None,Feces.,None,0,0
+2021,July,Magu,Nyigongo,Yichobela,Kabazu,Kwa Bohe,Lambo la kwa Bohe,Lambo la kwa Bohe,12-Jul-21,"Pond,permanent",30.7,52.2,Normal,Dry,16:45,17:00,Bulinus,"Cow,feces and Goat",Bulinus,1,0
+2021,July,Magu,Nyigongo,Yichobela,Bugando,Kwa Ng'hundi,Lambo la Ng'hundi ,Lambo la Ng'hundi ,12-Jul-21,"Pond,Temporary",8.3,16.2,Normal,Dry,14:50,15:05,"Bulinus, Lymnaea",None,Bulinus,2,0
+2021,July,Magu,Nyigongo,Yichobela,Ihushi B,Kwa Ng'wang'homba,Lambo la Ng'wang'homba,Lambo la Ng'wang'homba,12-Jul-21,"Pond,Temporary",7.2,14.2,Normal,Dry,14:00,14:15,"Bulinus,  Pila",Feces,Bulinus,1,0
