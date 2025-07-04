@@ -24,4 +24,4 @@ LongToUse	Longitude
 Permanence	Waterbodies that dry up seasonally (0) or not (1)
 SchoolDist	Distance to nearest School (km)
 NearestSchool	Name of nearest school
-SnailPres	Presence (1) or absence (0) of snails in waterbody![image](https://github.com/user-attachments/assets/bf23c393-16d7-40ba-88b3-d60e36592a1a)
+SnailPres	Presence (1) or absence (0) of snails in waterbody
