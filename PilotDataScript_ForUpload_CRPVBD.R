@@ -11,7 +11,7 @@
 #used for generalized linear mixed effects models (GLMMs)
 
 #set working directory to where your data files are saved
-#setwd("/Users/starklofflab/Library/CloudStorage/OneDrive-UvA/EmoryFiles_2021to2024/Spring2024/PilotStudy_SecondSub/DataForUpload")
+setwd()
 
 
 ##open dataframe of snail size and shedding data to bring in infection data 
