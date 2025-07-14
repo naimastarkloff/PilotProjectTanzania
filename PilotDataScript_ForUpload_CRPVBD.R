@@ -11,7 +11,7 @@
 #used for generalized linear mixed effects models (GLMMs)
 
 #set working directory to where your data files are saved
-#setwd()
+#setwd("/Users/starklofflab/Library/CloudStorage/OneDrive-UvA/EmoryFiles_2021to2024/Spring2024/PilotStudy_SecondSub/DataForUpload")
 
 
 ##open dataframe of snail size and shedding data to bring in infection data 
@@ -257,6 +257,7 @@ r2(NS_one)
 NS_one=glmmTMB(cbind(NonSchistoSnails,NonSchistoFailures)~(1|CorrectedWBName), 
                data=subset(TWO, BulinusNumber>0), 
                family ="binomial", REML = T)
+
 summary(NS_one)
 r2(NS_one)
 #46.5% of total variance explained by random effects (waterbody)
@@ -305,29 +306,41 @@ summary(predictorEffect("Phase", NonSchistGLMM))
 
 #compiling that into a data frame
 phasedata=data.frame(x=c("Phase 1","Phase 2", "Phase 3","Phase 2", "Phase 3"),
-                     y=c(0.0006373844, 0.0009384530, 0.0011194598, 0.02446072, 0.04604671),
+                     y=c(0.06373844, 0.09384530, 0.11194598, 2.446072, 4.604671),
                      sp=c("Schist", "Schist","Schist", "NS","NS"))
 
 
 #graph infection data and include confidence intervals
 #schistosome infection
+
+library(scales)
 ggplot(phasedata[1:3,],aes(x,y))+
-  labs(x="Phase", y="Infection prevalence")+
+  labs(x="Phase", y="Infection prevalence (%)")+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         panel.background = element_blank(), axis.line = element_line(colour = "black"),
         text = element_text(size = 20)) + 
-  geom_errorbar(aes(ymin=c(0.0002946002, 0.0004353506, 0.0005062413),
-                    ymax=c(0.001378468, 0.002021778, 0.002473642)), width=0.2)+
-  geom_point(col=c( "red2"), size=5) +ylim(0,0.01) 
+  geom_errorbar(aes(ymin=c(0.02946002, 0.04353506, 0.05062413),
+                    ymax=c(0.1378468, 0.2021778, 0.2473642)), width=0.2)+
+  geom_point(col=c( "red2"), size=5) +
+    ylim(0,.5)
+
+
+
+
 
 #nonschistosome infection
 ggplot(phasedata[4:5,],aes(x,y))+
-  labs(x="Phase", y="Prevalence nonschistsosome")+
+  labs(x="Phase", y="Infection prevalence (%)")+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         panel.background = element_blank(), axis.line = element_line(colour = "black"),
         text = element_text(size = 20)) + 
-  geom_errorbar(aes(ymin=c(0.01893165, 0.03513281 ),ymax=c(0.03155265, 0.06013967 )), width=0.2)+
-  geom_point(col=c("darkgoldenrod2"), size=5) +ylim(0,0.065) 
+  geom_errorbar(aes(ymin=c(1.893165, 3.513281 ),ymax=c(3.155265, 6.013967 )), width=0.2)+
+  geom_point(col=c("darkgoldenrod2"), size=5)+
+  scale_y_continuous(
+    limits = c(0, 6.5),
+    breaks = seq(0, 6, by = 1),
+    labels = number_format(accuracy = 0.1)
+  )
 
 #Figures for cattle permission related differences in infection of both groups
 #identifying infection rates and confidence intervals
@@ -336,28 +349,32 @@ summary(predictorEffect("CattleUsePerm", NonSchistGLMM))
 
 #compiling that into a data frame
 Cattleuse_data=data.frame(x=c("Not Permitted", "Permitted","Not Permitted", "Permitted"),
-                          y=c(0.0004111905, 0.0014577949 , 0.0335207, 0.0304141 ),
+                          y=c(0.04111905, 0.14577949 , 3.35207, 3.04141 ),
                           sp=c("Schist", "Schist", "NS","NS"))
 
 #graph infection data and include confidence intervals
 #schistosome infection
 ggplot(Cattleuse_data[1:2,],aes(x,y))+
-  labs(x="Cattle Use", y="Infection prevalence")+
+  labs(x="Cattle Use", y="Infection prevalence (%)")+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         panel.background = element_blank(), axis.line = element_line(colour = "black"),
         text = element_text(size = 20)) + 
-  geom_errorbar(aes(ymin=c(0.0001424258, 0.0006649575) ,ymax=c(0.001186526, 0.003192922)), width=0.2)+
-  geom_point(col=c("red2"), size=5) +ylim(0,0.01) 
+  geom_errorbar(aes(ymin=c(0.01424258, 0.06649575) ,ymax=c(0.1186526, 0.3192922)), width=0.2)+
+  geom_point(col=c("red2"), size=5) +ylim(0,.5) 
 
 #nonschistosome infection
 ggplot(Cattleuse_data[3:4,],aes(x,y))+
-  labs(x="Cattle Use", y="Probability of infection")+
+  labs(x="Cattle Use", y="Infection prevalence (%)")+
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         panel.background = element_blank(), axis.line = element_line(colour = "black"),
         text = element_text(size = 20)) + 
-  geom_errorbar(aes(ymin=c(0.02270131, 0.02265756 ),ymax=c(0.04923680, 0.04071538 )), width=0.2)+
-  geom_point(col=c("darkgoldenrod2"), size=5) +ylim(0,0.065) #was "darkgoldenrod3"
-
+  geom_errorbar(aes(ymin=c(2.270131, 2.265756 ),ymax=c(4.923680, 4.071538 )), width=0.2)+
+  geom_point(col=c("darkgoldenrod2"), size=5) +
+  scale_y_continuous(
+    limits = c(0, 6),
+    breaks = seq(0, 6, by = 1),
+    labels = number_format(accuracy = 0.1)
+  )
 
 #full GLMM for snail presence
 snailGLMM=glmmTMB(SnailPres~Permanence+
